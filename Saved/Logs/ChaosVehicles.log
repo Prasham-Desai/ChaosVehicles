@@ -1169,3 +1169,217 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.08.31-13.08.29:670][ 15]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 1606148738
 [2026.08.31-13.08.29:670][ 15]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7.393136, Update Interval: 317.600647
 [2026.08.31-13.10.18:578][345]LogDerivedDataCache: C:/Users/prash/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.08.31-13.13.47:462][971]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 325.511810
+[2026.08.31-13.13.48:462][974]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.31-13.13.48:462][974]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 326.179291, Update Interval: 349.295319
+[2026.08.31-13.14.42:922][138]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.08.31-13.15.11:180][449]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Mesh/Vehicle/SM_Vehicle.SM_Vehicle
+[2026.08.31-13.15.11:203][449]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.08.31-13.15.11:208][449]LogStreaming: Display: FlushAsyncLoading(330): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.31-13.15.11:702][449]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Skeleton/Vehicle/SKM_Vehicle.SKM_Vehicle
+[2026.08.31-13.15.11:737][449]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.08.31-13.15.11:761][449]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.08.31-13.15.12:117][449]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Skeleton/Vehicle/SKEL_Vehicle.SKEL_Vehicle
+[2026.08.31-13.15.12:118][449]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.08.31-13.15.12:124][449]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.08.31-13.15.12:380][449]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.08.31-13.15.12:726][449]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.08.31-13.15.13:239][452]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.08.31-13.15.22:126][926]LogStreaming: Display: FlushAsyncLoading(337): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.31-13.15.22:541][926]LogInteractiveToolsContext: Display: Paint per-bone skin weights. [ and ] change brush size, Ctrl to Erase/Subtract, Shift to Smooth
+[2026.08.31-13.15.41:848][ 18]Cmd: TRANSACTION UNDO
+[2026.08.31-13.15.41:850][ 18]LogEditorTransaction: Undo Paint skin weights.
+[2026.08.31-13.15.42:294][ 18]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.08.31-13.15.42:311][ 18]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.08.31-13.15.43:608][ 83]Cmd: TRANSACTION UNDO
+[2026.08.31-13.15.43:608][ 83]LogEditorTransaction: Undo Paint skin weights.
+[2026.08.31-13.15.44:027][ 83]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.08.31-13.15.44:043][ 83]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.08.31-13.16.20:881][ 37]Cmd: TRANSACTION UNDO
+[2026.08.31-13.16.20:883][ 37]LogEditorTransaction: Undo Selection
+[2026.08.31-13.16.21:343][ 37]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.08.31-13.16.21:358][ 37]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.08.31-13.16.22:035][ 71]Cmd: TRANSACTION UNDO
+[2026.08.31-13.16.22:035][ 71]LogEditorTransaction: Undo Selection
+[2026.08.31-13.16.22:446][ 71]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.08.31-13.16.22:461][ 71]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.08.31-13.18.53:276][245]LogSkeletalMesh: Building Skeletal Mesh SKM_Vehicle...
+[2026.08.31-13.18.53:291][245]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Vehicle) ...
+[2026.08.31-13.18.53:371][245]LogSkeletalMesh: Built Skeletal Mesh [0.10s] /Game/Skeleton/Vehicle/SKM_Vehicle.SKM_Vehicle
+[2026.08.31-13.19.29:809][306]LogInteractiveToolsContext: Display: Paint per-bone skin weights. [ and ] change brush size, Ctrl to Erase/Subtract, Shift to Smooth
+[2026.08.31-13.19.41:207][886]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 679.253845
+[2026.08.31-13.19.41:502][899]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.31-13.19.41:502][899]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 679.525696, Update Interval: 307.654053
+[2026.08.31-13.21.10:719][626]LogSkeletalMesh: Building Skeletal Mesh SKM_Vehicle...
+[2026.08.31-13.21.10:724][626]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Vehicle) ...
+[2026.08.31-13.21.10:806][626]LogSkeletalMesh: Built Skeletal Mesh [0.10s] /Game/Skeleton/Vehicle/SKM_Vehicle.SKM_Vehicle
+[2026.08.31-13.21.36:275][ 62]LogInteractiveToolsContext: Display: Paint per-bone skin weights. [ and ] change brush size, Ctrl to Erase/Subtract, Shift to Smooth
+[2026.08.31-13.23.19:106][451]LogSkeletalMesh: Building Skeletal Mesh SKM_Vehicle...
+[2026.08.31-13.23.19:121][451]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Vehicle) ...
+[2026.08.31-13.23.19:202][451]LogSkeletalMesh: Built Skeletal Mesh [0.10s] /Game/Skeleton/Vehicle/SKM_Vehicle.SKM_Vehicle
+[2026.08.31-13.23.31:541][116]LogInteractiveToolsContext: Display: Paint per-bone skin weights. [ and ] change brush size, Ctrl to Erase/Subtract, Shift to Smooth
+[2026.08.31-13.24.55:406][358]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 993.451965
+[2026.08.31-13.24.55:705][376]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.31-13.24.55:705][376]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 993.735046, Update Interval: 314.575653
+[2026.08.31-13.25.39:137][865]LogSkeletalMesh: Building Skeletal Mesh SKM_Vehicle...
+[2026.08.31-13.25.39:154][865]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Vehicle) ...
+[2026.08.31-13.25.39:234][865]LogSkeletalMesh: Built Skeletal Mesh [0.10s] /Game/Skeleton/Vehicle/SKM_Vehicle.SKM_Vehicle
+[2026.08.31-13.25.46:015][184]LogInteractiveToolsContext: Display: Paint per-bone skin weights. [ and ] change brush size, Ctrl to Erase/Subtract, Shift to Smooth
+[2026.08.31-13.26.40:923][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.08.31-13.26.40:925][937]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/TestingMap' took 0.102
+[2026.08.31-13.26.40:927][937]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Skeleton/Vehicle/SKM_Vehicle] ([1] browsable assets)...
+[2026.08.31-13.26.40:962][937]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Skeleton/Vehicle/SKM_Vehicle.SKM_Vehicle]
+[2026.08.31-13.26.40:962][937]OBJ SavePackage: Finished generating thumbnails for package [/Game/Skeleton/Vehicle/SKM_Vehicle]
+[2026.08.31-13.26.40:993][937]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Skeleton/Vehicle/SKM_Vehicle_Auto1
+[2026.08.31-13.26.40:993][937]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Saved/SKM_Vehicle_Auto14AA8CC5641759984C626E0A34F823164.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Saved/Autosaves/Game/Skeleton/Vehicle/SKM_Vehicle_Auto1.uasset'
+[2026.08.31-13.26.40:995][937]LogFileHelpers: Auto-saving content packages took 0.070
+[2026.08.31-13.27.40:225][261]LogInteractiveToolsContext: Display: Paint per-bone skin weights. [ and ] change brush size, Ctrl to Erase/Subtract, Shift to Smooth
+[2026.08.31-13.28.54:865][417]LogSkeletalMesh: Building Skeletal Mesh SKM_Vehicle...
+[2026.08.31-13.28.54:871][417]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Vehicle) ...
+[2026.08.31-13.28.54:954][417]LogSkeletalMesh: Built Skeletal Mesh [0.10s] /Game/Skeleton/Vehicle/SKM_Vehicle.SKM_Vehicle
+[2026.08.31-13.29.02:325][779]LogInteractiveToolsContext: Display: Paint per-bone skin weights. [ and ] change brush size, Ctrl to Erase/Subtract, Shift to Smooth
+[2026.08.31-13.29.57:948][741]LogSkeletalMesh: Building Skeletal Mesh SKM_Vehicle...
+[2026.08.31-13.29.57:965][741]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Vehicle) ...
+[2026.08.31-13.29.58:045][741]LogSkeletalMesh: Built Skeletal Mesh [0.10s] /Game/Skeleton/Vehicle/SKM_Vehicle.SKM_Vehicle
+[2026.08.31-13.30.11:521][483]LogInteractiveToolsContext: Display: Paint per-bone skin weights. [ and ] change brush size, Ctrl to Erase/Subtract, Shift to Smooth
+[2026.08.31-13.30.20:428][  5]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1318.471802
+[2026.08.31-13.30.20:729][ 23]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.31-13.30.20:729][ 23]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1318.755859, Update Interval: 305.035553
+[2026.08.31-13.31.12:909][997]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2026.08.31-13.31.12:954][997]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.044 s
+[2026.08.31-13.31.12:954][997]LogOutputDevice: Error: === Handled ensure: ===
+[2026.08.31-13.31.12:954][997]LogOutputDevice: Error: 
+[2026.08.31-13.31.12:954][997]LogOutputDevice: Error: Ensure condition failed: IndexOfBoneInVertex != INDEX_NONE  [File:D:\build\++UE5\Sync\Engine\Plugins\Runtime\MeshModelingToolset\Source\MeshModelingToolsEditorOnly\Private\SkeletalMesh\SkinWeightsPaintTool.cpp] [Line: 1894] 
+[2026.08.31-13.31.12:954][997]LogOutputDevice: Error: 
+[2026.08.31-13.31.12:954][997]LogOutputDevice: Error: Stack: 
+[2026.08.31-13.31.12:954][997]LogOutputDevice: Error: [Callstack] 0x000001b54f24b202 UnrealEditor-MeshModelingToolsEditorOnly.dll!UnknownFunction []
+[2026.08.31-13.31.12:954][997]LogOutputDevice: Error: [Callstack] 0x000001b54f1eecf4 UnrealEditor-MeshModelingToolsEditorOnly.dll!UnknownFunction []
+[2026.08.31-13.31.12:954][997]LogOutputDevice: Error: [Callstack] 0x000001b54f1efe9b UnrealEditor-MeshModelingToolsEditorOnly.dll!UnknownFunction []
+[2026.08.31-13.31.12:954][997]LogOutputDevice: Error: [Callstack] 0x000001b54f2415ee UnrealEditor-MeshModelingToolsEditorOnly.dll!UnknownFunction []
+[2026.08.31-13.31.12:954][997]LogOutputDevice: Error: [Callstack] 0x000001b558a58693 UnrealEditor-SkeletalMeshModelingTools.dll!UnknownFunction []
+[2026.08.31-13.31.12:954][997]LogOutputDevice: Error: [Callstack] 0x000001b558ae4192 UnrealEditor-SkeletalMeshModelingTools.dll!UnknownFunction []
+[2026.08.31-13.31.12:954][997]LogOutputDevice: Error: [Callstack] 0x00007ffda3e8961e UnrealEditor-Slate.dll!UnknownFunction []
+[2026.08.31-13.31.12:954][997]LogOutputDevice: Error: [Callstack] 0x00007ffda3ea81e2 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.08.31-13.31.12:954][997]LogOutputDevice: Error: [Callstack] 0x00007ffda3c3be6b UnrealEditor-Slate.dll!UnknownFunction []
+[2026.08.31-13.31.12:954][997]LogOutputDevice: Error: [Callstack] 0x00007ffda3c2743d UnrealEditor-Slate.dll!UnknownFunction []
+[2026.08.31-13.31.12:954][997]LogOutputDevice: Error: [Callstack] 0x00007ffda3c81ec8 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.08.31-13.31.12:954][997]LogOutputDevice: Error: [Callstack] 0x00007ffda3c713bb UnrealEditor-Slate.dll!UnknownFunction []
+[2026.08.31-13.31.12:954][997]LogOutputDevice: Error: [Callstack] 0x00007ffda3c64091 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.08.31-13.31.12:954][997]LogOutputDevice: Error: [Callstack] 0x00007ffda440f956 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2026.08.31-13.31.12:954][997]LogOutputDevice: Error: [Callstack] 0x00007ffda43f7137 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2026.08.31-13.31.12:954][997]LogOutputDevice: Error: [Callstack] 0x00007ffda441299c UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2026.08.31-13.31.12:954][997]LogOutputDevice: Error: [Callstack] 0x00007ffda43f1171 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2026.08.31-13.31.12:954][997]LogOutputDevice: Error: [Callstack] 0x00007ffe424ac366 USER32.dll!UnknownFunction []
+[2026.08.31-13.31.12:954][997]LogOutputDevice: Error: [Callstack] 0x00007ffe424aa7bd USER32.dll!UnknownFunction []
+[2026.08.31-13.31.12:954][997]LogOutputDevice: Error: [Callstack] 0x00007ffda4432316 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2026.08.31-13.31.12:954][997]LogOutputDevice: Error: [Callstack] 0x00007ff75ea6871b UnrealEditor.exe!UnknownFunction []
+[2026.08.31-13.31.12:954][997]LogOutputDevice: Error: [Callstack] 0x00007ff75ea8e5ac UnrealEditor.exe!UnknownFunction []
+[2026.08.31-13.31.12:954][997]LogOutputDevice: Error: [Callstack] 0x00007ff75ea8e6ba UnrealEditor.exe!UnknownFunction []
+[2026.08.31-13.31.12:954][997]LogOutputDevice: Error: [Callstack] 0x00007ff75ea9209e UnrealEditor.exe!UnknownFunction []
+[2026.08.31-13.31.12:954][997]LogOutputDevice: Error: [Callstack] 0x00007ff75eaa4e44 UnrealEditor.exe!UnknownFunction []
+[2026.08.31-13.31.12:954][997]LogOutputDevice: Error: [Callstack] 0x00007ff75eaa80fa UnrealEditor.exe!UnknownFunction []
+[2026.08.31-13.31.12:954][997]LogOutputDevice: Error: [Callstack] 0x00007ffe422fccb7 KERNEL32.DLL!UnknownFunction []
+[2026.08.31-13.31.12:954][997]LogOutputDevice: Error: [Callstack] 0x00007ffe4464ad6c ntdll.dll!UnknownFunction []
+[2026.08.31-13.31.12:954][997]LogOutputDevice: Error: 
+[2026.08.31-13.31.12:963][997]LogStats:                SubmitErrorReport -  0.000 s
+[2026.08.31-13.31.14:402][997]LogStats:                    SendNewReport -  1.439 s
+[2026.08.31-13.31.14:402][997]LogStats:             FDebug::EnsureFailed -  1.493 s
+[2026.08.31-13.31.29:362][823]LogInteractiveToolsContext: Display: Paint per-bone skin weights. [ and ] change brush size, Ctrl to Erase/Subtract, Shift to Smooth
+[2026.08.31-13.32.09:048][950]LogInteractiveToolsContext: Display: Paint per-bone skin weights. [ and ] change brush size, Ctrl to Erase/Subtract, Shift to Smooth
+[2026.08.31-13.32.26:227][895]Cmd: TRANSACTION UNDO
+[2026.08.31-13.32.26:227][895]LogEditorTransaction: Undo Selection
+[2026.08.31-13.32.26:678][895]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.08.31-13.32.26:693][895]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.08.31-13.33.12:003][458]LogInteractiveToolsContext: Display: Paint per-bone skin weights. [ and ] change brush size, Ctrl to Erase/Subtract, Shift to Smooth
+[2026.08.31-13.35.56:739][817]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1654.785034
+[2026.08.31-13.35.57:039][835]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.31-13.35.57:039][835]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1655.068481, Update Interval: 314.253357
+[2026.08.31-13.36.17:795][  1]LogSkeletalMesh: Building Skeletal Mesh SKM_Vehicle...
+[2026.08.31-13.36.17:809][  1]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Vehicle) ...
+[2026.08.31-13.36.17:891][  1]LogSkeletalMesh: Built Skeletal Mesh [0.10s] /Game/Skeleton/Vehicle/SKM_Vehicle.SKM_Vehicle
+[2026.08.31-13.37.04:632][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.08.31-13.37.04:635][737]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/TestingMap' took 0.024
+[2026.08.31-13.37.04:635][737]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Skeleton/Vehicle/SKM_Vehicle] ([1] browsable assets)...
+[2026.08.31-13.37.04:643][737]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Skeleton/Vehicle/SKM_Vehicle.SKM_Vehicle]
+[2026.08.31-13.37.04:643][737]OBJ SavePackage: Finished generating thumbnails for package [/Game/Skeleton/Vehicle/SKM_Vehicle]
+[2026.08.31-13.37.04:662][737]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Skeleton/Vehicle/SKM_Vehicle_Auto2
+[2026.08.31-13.37.04:662][737]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Saved/SKM_Vehicle_Auto2A70CC630435F8A3D54C17F8BCAB15112.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Saved/Autosaves/Game/Skeleton/Vehicle/SKM_Vehicle_Auto2.uasset'
+[2026.08.31-13.37.04:663][737]LogFileHelpers: Auto-saving content packages took 0.027
+[2026.08.31-13.42.06:335][836]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2024.394409
+[2026.08.31-13.42.06:618][853]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.31-13.42.06:618][853]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2024.661377, Update Interval: 316.765656
+[2026.08.31-13.48.18:606][172]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2396.665771
+[2026.08.31-13.48.19:290][213]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.31-13.48.19:290][213]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2397.334717, Update Interval: 335.012665
+[2026.08.31-13.49.25:454][304]LogSlate: Took 0.000674 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.08.31-13.50.12:432][443]LogStreaming: Display: FlushAsyncLoading(339): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.31-13.50.27:174][320]LogShaderCompilers: Display: ================================================
+[2026.08.31-13.50.27:174][320]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.08.31-13.50.27:174][320]LogShaderCompilers: Display: Total job queries 474, among them cache hits 51 (10.76%), DDC hits 349 (73.63%), Duplicates 73 (15.40%)
+[2026.08.31-13.50.27:174][320]LogShaderCompilers: Display: Tracking 350 distinct input hashes that result in 251 distinct outputs (71.71%)
+[2026.08.31-13.50.27:174][320]LogShaderCompilers: Display: RAM used: 3.32 MiB of 819.20 MiB budget. Usage: 0.41%
+[2026.08.31-13.50.27:174][320]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.08.31-13.50.27:174][320]LogShaderCompilers: Display: Shaders Compiled: 1
+[2026.08.31-13.50.27:174][320]LogShaderCompilers: Display: Jobs assigned 1, completed 1 (100%)
+[2026.08.31-13.50.27:175][320]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.03 s
+[2026.08.31-13.50.27:175][320]LogShaderCompilers: Display: Job execution time: average 1.02 s, max 1.02 s
+[2026.08.31-13.50.27:175][320]LogShaderCompilers: Display: Job life time (pending + execution): average 1.05 s, max 1.05
+[2026.08.31-13.50.27:175][320]LogShaderCompilers: Display: Shader code size: total 13.059 KiB, numShaders 2, average 6.529 KiB, min 3.777 KiB, max 9.281 KiB
+[2026.08.31-13.50.27:175][320]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.05 s
+[2026.08.31-13.50.27:175][320]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.08.31-13.50.27:175][320]LogShaderCompilers: Display: Jobs were issued in 1 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.08.31-13.50.27:175][320]LogShaderCompilers: Display: Average processing rate: 0.95 jobs/sec
+[2026.08.31-13.50.27:175][320]LogShaderCompilers: Display: Total thread time: 0.761 s
+[2026.08.31-13.50.27:175][320]LogShaderCompilers: Display: Total thread preprocess time: 7.115 s
+[2026.08.31-13.50.27:175][320]LogShaderCompilers: Display: Percentage time preprocessing: 935.02%
+[2026.08.31-13.50.27:175][320]LogShaderCompilers: Display: Effective parallelization: 0.72 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.072433
+[2026.08.31-13.50.27:175][320]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.08.31-13.50.27:176][320]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.47 sec, max 0.47 sec, min 0.47 sec)
+[2026.08.31-13.50.27:176][320]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    1 times, average 0.29 sec, max 0.29 sec, min 0.29 sec)
+[2026.08.31-13.50.27:176][320]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.08.31-13.50.27:176][320]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.08.31-13.50.27:176][320]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.08.31-13.50.27:176][320]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.08.31-13.50.27:176][320]LogShaderCompilers: Display:                                                  FVelocityPS - 62.30% of total time (compiled    1 times, average 0.47 sec, max 0.47 sec, min 0.47 sec)
+[2026.08.31-13.50.27:176][320]LogShaderCompilers: Display:                                                  FVelocityVS - 37.70% of total time (compiled    1 times, average 0.29 sec, max 0.29 sec, min 0.29 sec)
+[2026.08.31-13.50.27:176][320]LogShaderCompilers: Display:                                                 FLumenCardVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.08.31-13.50.27:176][320]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.08.31-13.50.27:176][320]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.08.31-13.50.27:176][320]LogShaderCompilers: Display: === Material stats ===
+[2026.08.31-13.50.27:176][320]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.08.31-13.50.27:176][320]LogShaderCompilers: Display: Materials Translated:    145
+[2026.08.31-13.50.27:176][320]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2026.08.31-13.50.27:176][320]LogShaderCompilers: Display: Material Translation Only: 0.04 s (41%)
+[2026.08.31-13.50.27:176][320]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.08.31-13.50.27:176][320]LogShaderCompilers: Display: Material Cache Hits: 17 (12%)
+[2026.08.31-13.50.27:176][320]LogShaderCompilers: Display: ================================================
+[2026.08.31-13.50.57:692][150]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.31-13.50.57:724][150]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Skeleton/Vehicle/SKM_Vehicle] ([1] browsable assets)...
+[2026.08.31-13.50.57:724][150]OBJ SavePackage: Finished generating thumbnails for package [/Game/Skeleton/Vehicle/SKM_Vehicle]
+[2026.08.31-13.50.57:724][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Skeleton/Vehicle/SKM_Vehicle" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Skeleton/Vehicle/SKM_Vehicle.uasset" SILENT=true
+[2026.08.31-13.50.57:746][150]LogSavePackage: Moving output files for package: /Game/Skeleton/Vehicle/SKM_Vehicle
+[2026.08.31-13.50.57:746][150]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Saved/SKM_Vehicle43490C52477121C2CE02DF9E1FE2C879.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Skeleton/Vehicle/SKM_Vehicle.uasset'
+[2026.08.31-13.50.57:763][150]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.840 ms
+[2026.08.31-13.50.57:794][150]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.31-13.50.57:794][150]LogContentValidation: Enabled validators:
+[2026.08.31-13.50.57:795][150]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.31-13.50.57:795][150]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.31-13.50.57:795][150]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.31-13.50.57:795][150]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.31-13.50.57:795][150]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.31-13.50.57:795][150]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.31-13.50.57:796][150]AssetCheck: /Game/Skeleton/Vehicle/SKM_Vehicle Validating asset
+[2026.08.31-13.51.20:919][532]LogSkeletalMesh: Building Skeletal Mesh SKM_Vehicle...
+[2026.08.31-13.51.20:935][532]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Vehicle) ...
+[2026.08.31-13.51.21:021][532]LogSkeletalMesh: Built Skeletal Mesh [0.10s] /Game/Skeleton/Vehicle/SKM_Vehicle.SKM_Vehicle
+[2026.08.31-13.52.00:743][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.08.31-13.52.00:746][559]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/TestingMap' took 0.026
+[2026.08.31-13.52.00:746][559]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Skeleton/Vehicle/SKM_Vehicle] ([1] browsable assets)...
+[2026.08.31-13.52.00:779][559]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Skeleton/Vehicle/SKM_Vehicle.SKM_Vehicle]
+[2026.08.31-13.52.00:779][559]OBJ SavePackage: Finished generating thumbnails for package [/Game/Skeleton/Vehicle/SKM_Vehicle]
+[2026.08.31-13.52.00:799][559]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Skeleton/Vehicle/SKM_Vehicle_Auto3
+[2026.08.31-13.52.00:799][559]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Saved/SKM_Vehicle_Auto35860A5A9432B647C98053AA12B6B4DD0.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Saved/Autosaves/Game/Skeleton/Vehicle/SKM_Vehicle_Auto3.uasset'
+[2026.08.31-13.52.00:800][559]LogFileHelpers: Auto-saving content packages took 0.055
