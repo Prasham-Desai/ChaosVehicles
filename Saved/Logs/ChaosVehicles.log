@@ -1383,3 +1383,1697 @@ Script Stack (0 frames) :
 [2026.08.31-13.52.00:799][559]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Skeleton/Vehicle/SKM_Vehicle_Auto3
 [2026.08.31-13.52.00:799][559]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Saved/SKM_Vehicle_Auto35860A5A9432B647C98053AA12B6B4DD0.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Saved/Autosaves/Game/Skeleton/Vehicle/SKM_Vehicle_Auto3.uasset'
 [2026.08.31-13.52.00:800][559]LogFileHelpers: Auto-saving content packages took 0.055
+[2026.08.31-13.53.13:578][945]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.31-13.53.13:606][945]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Skeleton/Vehicle/SKM_Vehicle] ([1] browsable assets)...
+[2026.08.31-13.53.13:606][945]OBJ SavePackage: Finished generating thumbnails for package [/Game/Skeleton/Vehicle/SKM_Vehicle]
+[2026.08.31-13.53.13:606][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Skeleton/Vehicle/SKM_Vehicle" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Skeleton/Vehicle/SKM_Vehicle.uasset" SILENT=true
+[2026.08.31-13.53.13:627][945]LogSavePackage: Moving output files for package: /Game/Skeleton/Vehicle/SKM_Vehicle
+[2026.08.31-13.53.13:627][945]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Saved/SKM_VehicleE8B5BB35473945B1C27B5ABC142043D2.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Skeleton/Vehicle/SKM_Vehicle.uasset'
+[2026.08.31-13.53.13:636][945]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.305 ms (total: 129.145 ms)
+[2026.08.31-13.53.13:673][945]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.31-13.53.13:673][945]LogContentValidation: Enabled validators:
+[2026.08.31-13.53.13:673][945]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.31-13.53.13:673][945]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.31-13.53.13:673][945]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.31-13.53.13:673][945]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.31-13.53.13:673][945]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.31-13.53.13:673][945]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.31-13.53.13:673][945]AssetCheck: /Game/Skeleton/Vehicle/SKM_Vehicle Validating asset
+[2026.08.31-13.53.20:327][292]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Textures/Vehicle/M_ScifiTruck.M_ScifiTruck
+[2026.08.31-13.53.20:351][292]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.08.31-13.53.20:890][292]MaterialEditorStats: Texture samplers: 0/16
+[2026.08.31-13.53.20:890][292]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.53.20:890][292]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.53.20:890][292]MaterialEditorStats: Shader Count: 0
+[2026.08.31-13.53.20:890][292]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.53.20:894][292]LogSlate: Took 0.000887 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.08.31-13.53.21:019][294]MaterialEditorStats: Base pass shader: 196 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.08.31-13.53.21:019][294]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.53.21:019][294]MaterialEditorStats: Texture samplers: 5/16
+[2026.08.31-13.53.21:019][294]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.53.21:019][294]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.53.21:019][294]MaterialEditorStats: Shader Count: 5
+[2026.08.31-13.53.21:019][294]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.53.26:949][643]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.08.31-13.53.26:949][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.31-13.53.27:001][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.08.31-13.53.30:162][804]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/Vehicle/T_ScifiTruck_DIF.T_ScifiTruck_DIF
+[2026.08.31-13.53.30:585][804]LogDeviceProfileManager: Display: Deviceprofile Android_ASTC not found.
+[2026.08.31-13.53.30:590][804]LogDeviceProfileManager: Display: Deviceprofile Android_DXT not found.
+[2026.08.31-13.53.30:590][804]LogDeviceProfileManager: Display: Deviceprofile Android_ETC2 not found.
+[2026.08.31-13.53.30:590][804]LogDeviceProfileManager: Display: Deviceprofile Android_Multi not found.
+[2026.08.31-13.53.43:484][545]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/Vehicle/T_ScifiTruck_EM.T_ScifiTruck_EM
+[2026.08.31-13.54.23:399][675]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Textures/Vehicle/M_ScifiTruck.M_ScifiTruck
+[2026.08.31-13.54.23:403][675]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.08.31-13.54.23:984][675]MaterialEditorStats: Texture samplers: 0/16
+[2026.08.31-13.54.23:984][675]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.54.23:984][675]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.54.23:984][675]MaterialEditorStats: Shader Count: 0
+[2026.08.31-13.54.23:984][675]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.54.24:099][677]MaterialEditorStats: Base pass shader: 196 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.08.31-13.54.24:099][677]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.54.24:099][677]MaterialEditorStats: Texture samplers: 5/16
+[2026.08.31-13.54.24:099][677]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.54.24:099][677]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.54.24:099][677]MaterialEditorStats: Shader Count: 5
+[2026.08.31-13.54.24:099][677]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.54.30:231][ 35]MaterialEditorStats: Texture samplers: 0/16
+[2026.08.31-13.54.30:231][ 35]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.54.30:231][ 35]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.54.30:231][ 35]MaterialEditorStats: Shader Count: 0
+[2026.08.31-13.54.30:231][ 35]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.54.30:394][ 37]MaterialEditorStats: Base pass shader: 196 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.08.31-13.54.30:394][ 37]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.54.30:394][ 37]MaterialEditorStats: Texture samplers: 5/16
+[2026.08.31-13.54.30:394][ 37]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.54.30:394][ 37]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.54.30:394][ 37]MaterialEditorStats: Shader Count: 5
+[2026.08.31-13.54.30:394][ 37]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.54.33:016][183]MaterialEditorStats: Texture samplers: 0/16
+[2026.08.31-13.54.33:016][183]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.54.33:016][183]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.54.33:016][183]MaterialEditorStats: Shader Count: 0
+[2026.08.31-13.54.33:016][183]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.54.33:084][185]MaterialEditorStats: Base pass shader: 196 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.08.31-13.54.33:084][185]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.54.33:084][185]MaterialEditorStats: Texture samplers: 5/16
+[2026.08.31-13.54.33:084][185]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.54.33:084][185]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.54.33:085][185]MaterialEditorStats: Shader Count: 5
+[2026.08.31-13.54.33:085][185]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.54.39:473][549]MaterialEditorStats: Texture samplers: 0/16
+[2026.08.31-13.54.39:475][549]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.54.39:475][549]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.54.39:475][549]MaterialEditorStats: Shader Count: 0
+[2026.08.31-13.54.39:475][549]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.54.39:518][552]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.54.39:518][552]MaterialEditorStats: Texture samplers: 0/16
+[2026.08.31-13.54.39:518][552]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.54.39:518][552]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.54.39:518][552]MaterialEditorStats: Shader Count: 2
+[2026.08.31-13.54.39:518][552]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.54.39:985][580]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.54.39:985][580]MaterialEditorStats: Texture samplers: 3/16
+[2026.08.31-13.54.39:985][580]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.54.39:985][580]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.54.39:985][580]MaterialEditorStats: Shader Count: 3
+[2026.08.31-13.54.39:985][580]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.54.40:085][586]MaterialEditorStats: Base pass shader: 191 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.08.31-13.54.40:085][586]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.54.40:085][586]MaterialEditorStats: Texture samplers: 4/16
+[2026.08.31-13.54.40:085][586]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.54.40:085][586]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.54.40:085][586]MaterialEditorStats: Shader Count: 4
+[2026.08.31-13.54.40:085][586]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.54.41:490][666]LogMaterialEditor: Saving and Compiling material M_ScifiTruck
+[2026.08.31-13.54.41:920][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.08.31-13.54.44:184][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.08.31-13.54.44:193][666]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.31-13.54.44:218][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Vehicle/M_ScifiTruck] ([1] browsable assets)...
+[2026.08.31-13.54.44:225][666]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Textures/Vehicle/M_ScifiTruck.M_ScifiTruck]
+[2026.08.31-13.54.44:225][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Vehicle/M_ScifiTruck]
+[2026.08.31-13.54.44:225][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Vehicle/M_ScifiTruck" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Textures/Vehicle/M_ScifiTruck.uasset" SILENT=true
+[2026.08.31-13.54.44:228][666]LogSavePackage: Moving output files for package: /Game/Textures/Vehicle/M_ScifiTruck
+[2026.08.31-13.54.44:229][666]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Saved/M_ScifiTruck0A0FBFC244FFCFE47F39CD9A61EAEC84.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Textures/Vehicle/M_ScifiTruck.uasset'
+[2026.08.31-13.54.44:236][666]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.496 ms (total: 170.641 ms)
+[2026.08.31-13.54.44:266][666]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.31-13.54.44:266][666]LogContentValidation: Enabled validators:
+[2026.08.31-13.54.44:267][666]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.31-13.54.44:267][666]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.31-13.54.44:267][666]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.31-13.54.44:267][666]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.31-13.54.44:267][666]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.31-13.54.44:267][666]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.31-13.54.44:267][666]AssetCheck: /Game/Textures/Vehicle/M_ScifiTruck Validating asset
+[2026.08.31-13.54.44:279][666]MaterialEditorStats: Base pass shader: 191 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.08.31-13.54.44:279][666]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.54.44:279][666]MaterialEditorStats: Base pass vertex shader: 293 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.54.44:279][666]MaterialEditorStats: Nanite Compute Shader: 1054 instructions
+Stats: Resources Used: 16
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.08.31-13.54.44:279][666]MaterialEditorStats: Texture samplers: 4/16
+[2026.08.31-13.54.44:280][666]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.54.44:280][666]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.54.44:280][666]MaterialEditorStats: Shader Count: 26
+[2026.08.31-13.54.44:280][666]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.54.44:290][666]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2782.351074
+[2026.08.31-13.54.44:597][685]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.31-13.54.44:597][685]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2782.641846, Update Interval: 338.325134
+[2026.08.31-13.54.53:820][227]MaterialEditorStats: Texture samplers: 0/16
+[2026.08.31-13.54.53:820][227]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.54.53:820][227]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.54.53:820][227]MaterialEditorStats: Shader Count: 0
+[2026.08.31-13.54.53:820][227]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.54.54:261][254]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.54.54:261][254]MaterialEditorStats: Texture samplers: 4/16
+[2026.08.31-13.54.54:261][254]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.54.54:261][254]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.54.54:261][254]MaterialEditorStats: Shader Count: 3
+[2026.08.31-13.54.54:261][254]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.54.54:477][267]MaterialEditorStats: Base pass shader: 198 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.08.31-13.54.54:477][267]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.54.54:478][267]MaterialEditorStats: Texture samplers: 5/16
+[2026.08.31-13.54.54:478][267]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.54.54:478][267]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.54.54:478][267]MaterialEditorStats: Shader Count: 4
+[2026.08.31-13.54.54:478][267]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.54.55:929][352]LogMaterialEditor: Saving and Compiling material M_ScifiTruck
+[2026.08.31-13.54.56:017][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.08.31-13.54.58:018][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.08.31-13.54.58:028][352]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.31-13.54.58:055][352]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Vehicle/M_ScifiTruck] ([1] browsable assets)...
+[2026.08.31-13.54.58:062][352]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Textures/Vehicle/M_ScifiTruck.M_ScifiTruck]
+[2026.08.31-13.54.58:062][352]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Vehicle/M_ScifiTruck]
+[2026.08.31-13.54.58:062][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Vehicle/M_ScifiTruck" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Textures/Vehicle/M_ScifiTruck.uasset" SILENT=true
+[2026.08.31-13.54.58:065][352]LogSavePackage: Moving output files for package: /Game/Textures/Vehicle/M_ScifiTruck
+[2026.08.31-13.54.58:065][352]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Saved/M_ScifiTruck34B6BA8B400CF0A59AC2BC9F03A4FD7F.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Textures/Vehicle/M_ScifiTruck.uasset'
+[2026.08.31-13.54.58:072][352]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.233 ms (total: 214.875 ms)
+[2026.08.31-13.54.58:113][352]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.31-13.54.58:113][352]LogContentValidation: Enabled validators:
+[2026.08.31-13.54.58:113][352]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.31-13.54.58:113][352]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.31-13.54.58:113][352]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.31-13.54.58:113][352]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.31-13.54.58:113][352]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.31-13.54.58:113][352]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.31-13.54.58:113][352]AssetCheck: /Game/Textures/Vehicle/M_ScifiTruck Validating asset
+[2026.08.31-13.54.58:128][352]MaterialEditorStats: Base pass shader: 198 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.08.31-13.54.58:128][352]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.54.58:128][352]MaterialEditorStats: Base pass vertex shader: 293 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.54.58:128][352]MaterialEditorStats: Nanite Compute Shader: 1061 instructions
+Stats: Resources Used: 17
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.08.31-13.54.58:128][352]MaterialEditorStats: Texture samplers: 5/16
+[2026.08.31-13.54.58:128][352]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.54.58:128][352]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.54.58:128][352]MaterialEditorStats: Shader Count: 26
+[2026.08.31-13.54.58:128][352]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.55.20:153][654]MaterialEditorStats: Texture samplers: 0/16
+[2026.08.31-13.55.20:153][654]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.55.20:153][654]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.55.20:153][654]MaterialEditorStats: Shader Count: 0
+[2026.08.31-13.55.20:153][654]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.55.20:202][656]MaterialEditorStats: Base pass shader: 198 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.08.31-13.55.20:202][656]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.55.20:202][656]MaterialEditorStats: Texture samplers: 5/16
+[2026.08.31-13.55.20:202][656]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.55.20:202][656]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.55.20:202][656]MaterialEditorStats: Shader Count: 5
+[2026.08.31-13.55.20:202][656]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.55.29:138][190]MaterialEditorStats: Texture samplers: 0/16
+[2026.08.31-13.55.29:138][190]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.55.29:139][190]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.55.29:139][190]MaterialEditorStats: Shader Count: 0
+[2026.08.31-13.55.29:139][190]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.55.29:188][192]MaterialEditorStats: Base pass shader: 198 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.08.31-13.55.29:189][192]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.55.29:189][192]MaterialEditorStats: Texture samplers: 5/16
+[2026.08.31-13.55.29:189][192]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.55.29:189][192]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.55.29:189][192]MaterialEditorStats: Shader Count: 5
+[2026.08.31-13.55.29:189][192]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.55.31:351][321]MaterialEditorStats: Texture samplers: 0/16
+[2026.08.31-13.55.31:351][321]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.55.31:351][321]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.55.31:351][321]MaterialEditorStats: Shader Count: 0
+[2026.08.31-13.55.31:351][321]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.55.31:389][323]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.55.31:389][323]MaterialEditorStats: Texture samplers: 4/16
+[2026.08.31-13.55.31:389][323]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.55.31:389][323]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.55.31:389][323]MaterialEditorStats: Shader Count: 4
+[2026.08.31-13.55.31:389][323]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.55.31:405][324]MaterialEditorStats: Base pass shader: 198 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.08.31-13.55.31:405][324]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.55.31:405][324]MaterialEditorStats: Texture samplers: 5/16
+[2026.08.31-13.55.31:405][324]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.55.31:405][324]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.55.31:405][324]MaterialEditorStats: Shader Count: 5
+[2026.08.31-13.55.31:405][324]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.55.32:942][415]MaterialEditorStats: Texture samplers: 0/16
+[2026.08.31-13.55.32:942][415]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.55.32:942][415]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.55.32:942][415]MaterialEditorStats: Shader Count: 0
+[2026.08.31-13.55.32:942][415]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.55.32:983][417]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.55.32:983][417]MaterialEditorStats: Texture samplers: 4/16
+[2026.08.31-13.55.32:983][417]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.55.32:983][417]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.55.32:983][417]MaterialEditorStats: Shader Count: 2
+[2026.08.31-13.55.32:983][417]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.55.33:000][418]MaterialEditorStats: Base pass shader: 198 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.08.31-13.55.33:000][418]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.55.33:000][418]MaterialEditorStats: Texture samplers: 5/16
+[2026.08.31-13.55.33:000][418]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.55.33:000][418]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.55.33:000][418]MaterialEditorStats: Shader Count: 5
+[2026.08.31-13.55.33:000][418]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.55.34:298][495]MaterialEditorStats: Texture samplers: 0/16
+[2026.08.31-13.55.34:298][495]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.55.34:298][495]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.55.34:298][495]MaterialEditorStats: Shader Count: 0
+[2026.08.31-13.55.34:298][495]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.55.34:356][497]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.55.34:356][497]MaterialEditorStats: Texture samplers: 0/16
+[2026.08.31-13.55.34:356][497]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.55.34:356][497]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.55.34:356][497]MaterialEditorStats: Shader Count: 2
+[2026.08.31-13.55.34:357][497]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.55.34:857][527]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.55.34:857][527]MaterialEditorStats: Texture samplers: 3/16
+[2026.08.31-13.55.34:857][527]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.55.34:857][527]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.55.34:857][527]MaterialEditorStats: Shader Count: 3
+[2026.08.31-13.55.34:857][527]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.55.34:957][533]MaterialEditorStats: Base pass shader: 191 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.08.31-13.55.34:957][533]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.55.34:957][533]MaterialEditorStats: Texture samplers: 4/16
+[2026.08.31-13.55.34:957][533]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.55.34:957][533]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.55.34:957][533]MaterialEditorStats: Shader Count: 4
+[2026.08.31-13.55.34:957][533]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.55.40:844][884]LogMaterialEditor: Saving and Compiling material M_ScifiTruck
+[2026.08.31-13.55.40:921][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.08.31-13.55.43:124][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.08.31-13.55.43:137][884]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.31-13.55.43:171][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Vehicle/M_ScifiTruck] ([1] browsable assets)...
+[2026.08.31-13.55.43:178][884]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Textures/Vehicle/M_ScifiTruck.M_ScifiTruck]
+[2026.08.31-13.55.43:178][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Vehicle/M_ScifiTruck]
+[2026.08.31-13.55.43:178][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Vehicle/M_ScifiTruck" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Textures/Vehicle/M_ScifiTruck.uasset" SILENT=true
+[2026.08.31-13.55.43:181][884]LogSavePackage: Moving output files for package: /Game/Textures/Vehicle/M_ScifiTruck
+[2026.08.31-13.55.43:181][884]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Saved/M_ScifiTruckE2F870D447FB21494AAF49BBD34BAEB2.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Textures/Vehicle/M_ScifiTruck.uasset'
+[2026.08.31-13.55.43:188][884]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.578 ms (total: 266.454 ms)
+[2026.08.31-13.55.43:217][884]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.31-13.55.43:217][884]LogContentValidation: Enabled validators:
+[2026.08.31-13.55.43:217][884]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.31-13.55.43:217][884]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.31-13.55.43:217][884]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.31-13.55.43:217][884]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.31-13.55.43:217][884]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.31-13.55.43:217][884]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.31-13.55.43:217][884]AssetCheck: /Game/Textures/Vehicle/M_ScifiTruck Validating asset
+[2026.08.31-13.55.43:229][884]MaterialEditorStats: Base pass shader: 191 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.08.31-13.55.43:229][884]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.55.43:229][884]MaterialEditorStats: Base pass vertex shader: 293 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.55.43:229][884]MaterialEditorStats: Nanite Compute Shader: 1054 instructions
+Stats: Resources Used: 16
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.08.31-13.55.43:229][884]MaterialEditorStats: Texture samplers: 4/16
+[2026.08.31-13.55.43:229][884]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.55.43:229][884]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.55.43:229][884]MaterialEditorStats: Shader Count: 26
+[2026.08.31-13.55.43:229][884]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.56.10:190][499]MaterialEditorStats: Texture samplers: 0/16
+[2026.08.31-13.56.10:191][499]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.56.10:191][499]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.56.10:191][499]MaterialEditorStats: Shader Count: 0
+[2026.08.31-13.56.10:191][499]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.56.10:242][501]MaterialEditorStats: Base pass shader: 191 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.08.31-13.56.10:242][501]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.56.10:242][501]MaterialEditorStats: Texture samplers: 4/16
+[2026.08.31-13.56.10:242][501]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.56.10:242][501]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.56.10:242][501]MaterialEditorStats: Shader Count: 5
+[2026.08.31-13.56.10:242][501]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.56.12:896][659]MaterialEditorStats: Texture samplers: 0/16
+[2026.08.31-13.56.12:896][659]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.56.12:896][659]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.56.12:896][659]MaterialEditorStats: Shader Count: 0
+[2026.08.31-13.56.12:896][659]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.56.12:935][661]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.56.12:935][661]MaterialEditorStats: Texture samplers: 0/16
+[2026.08.31-13.56.12:935][661]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.56.12:935][661]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.56.12:935][661]MaterialEditorStats: Shader Count: 2
+[2026.08.31-13.56.12:935][661]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.56.14:178][733]MaterialEditorStats: Base pass shader: 184 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2026.08.31-13.56.14:178][733]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.56.14:178][733]MaterialEditorStats: Texture samplers: 3/16
+[2026.08.31-13.56.14:178][733]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.56.14:178][733]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.56.14:178][733]MaterialEditorStats: Shader Count: 5
+[2026.08.31-13.56.14:178][733]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.56.17:776][945]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.31-13.56.19:874][ 68]MaterialEditorStats: Texture samplers: 0/16
+[2026.08.31-13.56.19:874][ 68]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.56.19:874][ 68]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.56.19:874][ 68]MaterialEditorStats: Shader Count: 0
+[2026.08.31-13.56.19:874][ 68]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.56.19:929][ 71]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.56.19:929][ 71]MaterialEditorStats: Texture samplers: 0/16
+[2026.08.31-13.56.19:929][ 71]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.56.19:929][ 71]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.56.19:929][ 71]MaterialEditorStats: Shader Count: 2
+[2026.08.31-13.56.19:929][ 71]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.56.20:329][ 95]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.56.20:329][ 95]MaterialEditorStats: Texture samplers: 3/16
+[2026.08.31-13.56.20:329][ 95]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.56.20:329][ 95]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.56.20:329][ 95]MaterialEditorStats: Shader Count: 3
+[2026.08.31-13.56.20:329][ 95]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.56.20:429][101]MaterialEditorStats: Base pass shader: 190 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.08.31-13.56.20:429][101]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.56.20:429][101]MaterialEditorStats: Texture samplers: 4/16
+[2026.08.31-13.56.20:429][101]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.56.20:429][101]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.56.20:429][101]MaterialEditorStats: Shader Count: 4
+[2026.08.31-13.56.20:429][101]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.56.24:399][339]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.31-13.56.24:408][339]MaterialEditorStats: Texture samplers: 0/16
+[2026.08.31-13.56.24:408][339]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.56.24:408][339]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.56.24:408][339]MaterialEditorStats: Shader Count: 0
+[2026.08.31-13.56.24:408][339]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.56.24:461][342]MaterialEditorStats: Base pass shader: 190 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.08.31-13.56.24:461][342]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.56.24:461][342]MaterialEditorStats: Texture samplers: 4/16
+[2026.08.31-13.56.24:461][342]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.56.24:461][342]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.56.24:461][342]MaterialEditorStats: Shader Count: 5
+[2026.08.31-13.56.24:461][342]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.56.27:234][508]LogShaderCompilers: Display: ================================================
+[2026.08.31-13.56.27:234][508]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.08.31-13.56.27:234][508]LogShaderCompilers: Display: Total job queries 717, among them cache hits 215 (29.99%), DDC hits 358 (49.93%), Duplicates 91 (12.69%)
+[2026.08.31-13.56.27:234][508]LogShaderCompilers: Display: Tracking 411 distinct input hashes that result in 298 distinct outputs (72.51%)
+[2026.08.31-13.56.27:234][508]LogShaderCompilers: Display: RAM used: 3.85 MiB of 819.20 MiB budget. Usage: 0.47%
+[2026.08.31-13.56.27:234][508]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.08.31-13.56.27:234][508]LogShaderCompilers: Display: Shaders Compiled: 53
+[2026.08.31-13.56.27:235][508]LogShaderCompilers: Display: Jobs assigned 53, completed 53 (100%)
+[2026.08.31-13.56.27:235][508]LogShaderCompilers: Display: Average time worker was idle: 23.12 s
+[2026.08.31-13.56.27:235][508]LogShaderCompilers: Display: Time job spent in pending queue: average 0.10 s, longest 0.82 s
+[2026.08.31-13.56.27:235][508]LogShaderCompilers: Display: Job execution time: average 1.03 s, max 1.98 s
+[2026.08.31-13.56.27:235][508]LogShaderCompilers: Display: Job life time (pending + execution): average 1.13 s, max 2.04
+[2026.08.31-13.56.27:235][508]LogShaderCompilers: Display: Shader code size: total 739.393 KiB, numShaders 54, average 13.692 KiB, min 3.777 KiB, max 25.727 KiB
+[2026.08.31-13.56.27:235][508]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 11.42 s
+[2026.08.31-13.56.27:235][508]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2026.08.31-13.56.27:235][508]LogShaderCompilers: Display: Jobs were issued in 53 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.08.31-13.56.27:235][508]LogShaderCompilers: Display: Average processing rate: 4.64 jobs/sec
+[2026.08.31-13.56.27:235][508]LogShaderCompilers: Display: Total thread time: 46.693 s
+[2026.08.31-13.56.27:235][508]LogShaderCompilers: Display: Total thread preprocess time: 10.252 s
+[2026.08.31-13.56.27:235][508]LogShaderCompilers: Display: Percentage time preprocessing: 21.96%
+[2026.08.31-13.56.27:235][508]LogShaderCompilers: Display: Effective parallelization: 4.09 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.408845
+[2026.08.31-13.56.27:235][508]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.08.31-13.56.27:235][508]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    3 times, average 1.69 sec, max 1.73 sec, min 1.67 sec)
+[2026.08.31-13.56.27:235][508]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    3 times, average 1.69 sec, max 1.73 sec, min 1.66 sec)
+[2026.08.31-13.56.27:235][508]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    3 times, average 1.47 sec, max 1.50 sec, min 1.43 sec)
+[2026.08.31-13.56.27:235][508]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    6 times, average 1.32 sec, max 1.35 sec, min 1.28 sec)
+[2026.08.31-13.56.27:235][508]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    6 times, average 1.14 sec, max 1.42 sec, min 0.84 sec)
+[2026.08.31-13.56.27:235][508]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.08.31-13.56.27:235][508]LogShaderCompilers: Display:                                             FDebugViewModePS - 16.96% of total time (compiled    6 times, average 1.32 sec, max 1.35 sec, min 1.28 sec)
+[2026.08.31-13.56.27:235][508]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 16.01% of total time (compiled    8 times, average 0.93 sec, max 1.40 sec, min 0.62 sec)
+[2026.08.31-13.56.27:235][508]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 14.71% of total time (compiled    6 times, average 1.14 sec, max 1.42 sec, min 0.84 sec)
+[2026.08.31-13.56.27:235][508]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 10.88% of total time (compiled    3 times, average 1.69 sec, max 1.73 sec, min 1.67 sec)
+[2026.08.31-13.56.27:235][508]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 10.83% of total time (compiled    3 times, average 1.69 sec, max 1.73 sec, min 1.66 sec)
+[2026.08.31-13.56.27:235][508]LogShaderCompilers: Display: === Material stats ===
+[2026.08.31-13.56.27:235][508]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.08.31-13.56.27:235][508]LogShaderCompilers: Display: Materials Translated:    190
+[2026.08.31-13.56.27:235][508]LogShaderCompilers: Display: Material Total Translate Time: 0.10 s
+[2026.08.31-13.56.27:235][508]LogShaderCompilers: Display: Material Translation Only: 0.04 s (43%)
+[2026.08.31-13.56.27:235][508]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.08.31-13.56.27:235][508]LogShaderCompilers: Display: Material Cache Hits: 17 (9%)
+[2026.08.31-13.56.27:235][508]LogShaderCompilers: Display: ================================================
+[2026.08.31-13.56.29:384][635]LogMaterialEditor: Saving and Compiling material M_ScifiTruck
+[2026.08.31-13.56.29:458][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.08.31-13.56.31:566][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.08.31-13.56.31:578][635]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.31-13.56.31:603][635]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Vehicle/M_ScifiTruck] ([1] browsable assets)...
+[2026.08.31-13.56.31:611][635]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Textures/Vehicle/M_ScifiTruck.M_ScifiTruck]
+[2026.08.31-13.56.31:611][635]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Vehicle/M_ScifiTruck]
+[2026.08.31-13.56.31:611][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Vehicle/M_ScifiTruck" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Textures/Vehicle/M_ScifiTruck.uasset" SILENT=true
+[2026.08.31-13.56.31:613][635]LogSavePackage: Moving output files for package: /Game/Textures/Vehicle/M_ScifiTruck
+[2026.08.31-13.56.31:613][635]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Saved/M_ScifiTruck2CF4C3DE4E88C3CF2A7AA4849ADD834F.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Textures/Vehicle/M_ScifiTruck.uasset'
+[2026.08.31-13.56.31:622][635]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.308 ms (total: 309.762 ms)
+[2026.08.31-13.56.31:653][635]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.31-13.56.31:653][635]LogContentValidation: Enabled validators:
+[2026.08.31-13.56.31:653][635]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.31-13.56.31:653][635]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.31-13.56.31:653][635]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.31-13.56.31:653][635]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.31-13.56.31:653][635]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.31-13.56.31:653][635]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.31-13.56.31:653][635]AssetCheck: /Game/Textures/Vehicle/M_ScifiTruck Validating asset
+[2026.08.31-13.56.31:667][635]MaterialEditorStats: Base pass shader: 190 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.08.31-13.56.31:667][635]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.56.31:667][635]MaterialEditorStats: Base pass vertex shader: 293 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.56.31:667][635]MaterialEditorStats: Nanite Compute Shader: 1053 instructions
+Stats: Resources Used: 16
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.08.31-13.56.31:668][635]MaterialEditorStats: Texture samplers: 4/16
+[2026.08.31-13.56.31:668][635]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.56.31:668][635]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.56.31:668][635]MaterialEditorStats: Shader Count: 26
+[2026.08.31-13.56.31:668][635]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.57.13:513][136]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.57.13:513][136]MaterialEditorStats: Texture samplers: 0/16
+[2026.08.31-13.57.13:513][136]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.57.13:513][136]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.57.13:513][136]MaterialEditorStats: Shader Count: 2
+[2026.08.31-13.57.13:513][136]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.57.13:940][161]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.57.13:940][161]MaterialEditorStats: Texture samplers: 2/16
+[2026.08.31-13.57.13:940][161]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.57.13:940][161]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.57.13:940][161]MaterialEditorStats: Shader Count: 3
+[2026.08.31-13.57.13:940][161]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.57.14:039][167]MaterialEditorStats: Base pass shader: 189 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.08.31-13.57.14:039][167]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.57.14:039][167]MaterialEditorStats: Texture samplers: 4/16
+[2026.08.31-13.57.14:039][167]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.57.14:039][167]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.57.14:039][167]MaterialEditorStats: Shader Count: 4
+[2026.08.31-13.57.14:039][167]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.57.22:605][678]MaterialEditorStats: Texture samplers: 0/16
+[2026.08.31-13.57.22:605][678]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.57.22:605][678]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.57.22:605][678]MaterialEditorStats: Shader Count: 0
+[2026.08.31-13.57.22:605][678]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.57.22:658][680]MaterialEditorStats: Base pass shader: 189 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.08.31-13.57.22:658][680]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.57.22:658][680]MaterialEditorStats: Texture samplers: 4/16
+[2026.08.31-13.57.22:658][680]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.57.22:658][680]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.57.22:658][680]MaterialEditorStats: Shader Count: 5
+[2026.08.31-13.57.22:658][680]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.57.26:646][919]MaterialEditorStats: Texture samplers: 0/16
+[2026.08.31-13.57.26:646][919]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.57.26:646][919]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.57.26:646][919]MaterialEditorStats: Shader Count: 0
+[2026.08.31-13.57.26:646][919]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.57.26:675][921]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.57.26:675][921]MaterialEditorStats: Texture samplers: 2/16
+[2026.08.31-13.57.26:675][921]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.57.26:675][921]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.57.26:675][921]MaterialEditorStats: Shader Count: 4
+[2026.08.31-13.57.26:675][921]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.57.26:692][922]MaterialEditorStats: Base pass shader: 189 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.08.31-13.57.26:692][922]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.57.26:692][922]MaterialEditorStats: Texture samplers: 4/16
+[2026.08.31-13.57.26:692][922]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.57.26:692][922]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.57.26:692][922]MaterialEditorStats: Shader Count: 5
+[2026.08.31-13.57.26:692][922]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.57.29:247][ 73]MaterialEditorStats: Texture samplers: 0/16
+[2026.08.31-13.57.29:247][ 73]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.57.29:247][ 73]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.57.29:247][ 73]MaterialEditorStats: Shader Count: 0
+[2026.08.31-13.57.29:247][ 73]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.57.29:668][ 98]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.57.29:668][ 98]MaterialEditorStats: Texture samplers: 3/16
+[2026.08.31-13.57.29:668][ 98]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.57.29:668][ 98]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.57.29:668][ 98]MaterialEditorStats: Shader Count: 3
+[2026.08.31-13.57.29:668][ 98]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.57.29:868][110]MaterialEditorStats: Base pass shader: 191 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.08.31-13.57.29:868][110]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.57.29:868][110]MaterialEditorStats: Texture samplers: 4/16
+[2026.08.31-13.57.29:868][110]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.57.29:868][110]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.57.29:868][110]MaterialEditorStats: Shader Count: 4
+[2026.08.31-13.57.29:868][110]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.57.31:086][182]LogMaterialEditor: Saving and Compiling material M_ScifiTruck
+[2026.08.31-13.57.31:158][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.08.31-13.57.33:330][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.08.31-13.57.33:341][182]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.31-13.57.33:367][182]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Vehicle/M_ScifiTruck] ([1] browsable assets)...
+[2026.08.31-13.57.33:373][182]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Textures/Vehicle/M_ScifiTruck.M_ScifiTruck]
+[2026.08.31-13.57.33:375][182]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Vehicle/M_ScifiTruck]
+[2026.08.31-13.57.33:375][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Vehicle/M_ScifiTruck" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Textures/Vehicle/M_ScifiTruck.uasset" SILENT=true
+[2026.08.31-13.57.33:377][182]LogSavePackage: Moving output files for package: /Game/Textures/Vehicle/M_ScifiTruck
+[2026.08.31-13.57.33:378][182]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Saved/M_ScifiTruck126652DE402E5E039FA094B8822B9560.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Textures/Vehicle/M_ScifiTruck.uasset'
+[2026.08.31-13.57.33:386][182]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.545 ms (total: 353.308 ms)
+[2026.08.31-13.57.33:410][182]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.31-13.57.33:410][182]LogContentValidation: Enabled validators:
+[2026.08.31-13.57.33:410][182]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.31-13.57.33:410][182]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.31-13.57.33:410][182]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.31-13.57.33:410][182]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.31-13.57.33:410][182]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.31-13.57.33:410][182]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.31-13.57.33:410][182]AssetCheck: /Game/Textures/Vehicle/M_ScifiTruck Validating asset
+[2026.08.31-13.57.33:426][182]MaterialEditorStats: Base pass shader: 191 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.08.31-13.57.33:426][182]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.57.33:426][182]MaterialEditorStats: Base pass vertex shader: 293 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.57.33:426][182]MaterialEditorStats: Nanite Compute Shader: 1054 instructions
+Stats: Resources Used: 16
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.08.31-13.57.33:426][182]MaterialEditorStats: Texture samplers: 4/16
+[2026.08.31-13.57.33:426][182]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.57.33:426][182]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.57.33:426][182]MaterialEditorStats: Shader Count: 26
+[2026.08.31-13.57.33:426][182]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.57.57:525][619]MaterialEditorStats: Texture samplers: 0/16
+[2026.08.31-13.57.57:525][619]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.57.57:525][619]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.57.57:525][619]MaterialEditorStats: Shader Count: 0
+[2026.08.31-13.57.57:525][619]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.57.57:581][621]MaterialEditorStats: Base pass shader: 191 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.08.31-13.57.57:581][621]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.57.57:581][621]MaterialEditorStats: Texture samplers: 4/16
+[2026.08.31-13.57.57:581][621]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.57.57:581][621]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.57.57:581][621]MaterialEditorStats: Shader Count: 5
+[2026.08.31-13.57.57:581][621]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.57.59:803][754]MaterialEditorStats: Texture samplers: 0/16
+[2026.08.31-13.57.59:803][754]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.57.59:803][754]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.57.59:803][754]MaterialEditorStats: Shader Count: 0
+[2026.08.31-13.57.59:803][754]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.57.59:832][756]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.57.59:832][756]MaterialEditorStats: Texture samplers: 3/16
+[2026.08.31-13.57.59:832][756]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.57.59:832][756]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.57.59:832][756]MaterialEditorStats: Shader Count: 3
+[2026.08.31-13.57.59:832][756]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.57.59:848][757]MaterialEditorStats: Base pass shader: 191 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.08.31-13.57.59:848][757]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.57.59:848][757]MaterialEditorStats: Texture samplers: 4/16
+[2026.08.31-13.57.59:848][757]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.57.59:848][757]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.57.59:848][757]MaterialEditorStats: Shader Count: 5
+[2026.08.31-13.57.59:848][757]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.58.02:453][912]MaterialEditorStats: Texture samplers: 0/16
+[2026.08.31-13.58.02:453][912]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.58.02:453][912]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.58.02:453][912]MaterialEditorStats: Shader Count: 0
+[2026.08.31-13.58.02:453][912]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.58.02:938][939]MaterialEditorStats: Texture samplers: 3/16
+[2026.08.31-13.58.02:938][939]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.58.02:938][939]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.58.02:938][939]MaterialEditorStats: Shader Count: 2
+[2026.08.31-13.58.02:938][939]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.58.03:038][945]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.58.03:038][945]MaterialEditorStats: Texture samplers: 3/16
+[2026.08.31-13.58.03:038][945]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.58.03:038][945]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.58.03:038][945]MaterialEditorStats: Shader Count: 3
+[2026.08.31-13.58.03:038][945]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.58.03:238][957]MaterialEditorStats: Base pass shader: 191 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.08.31-13.58.03:239][957]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.58.03:239][957]MaterialEditorStats: Texture samplers: 4/16
+[2026.08.31-13.58.03:239][957]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.58.03:239][957]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.58.03:239][957]MaterialEditorStats: Shader Count: 4
+[2026.08.31-13.58.03:239][957]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.58.04:387][ 26]LogMaterialEditor: Saving and Compiling material M_ScifiTruck
+[2026.08.31-13.58.04:459][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.08.31-13.58.06:636][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.08.31-13.58.06:648][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.31-13.58.06:673][ 26]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Vehicle/M_ScifiTruck] ([1] browsable assets)...
+[2026.08.31-13.58.06:680][ 26]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Textures/Vehicle/M_ScifiTruck.M_ScifiTruck]
+[2026.08.31-13.58.06:680][ 26]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Vehicle/M_ScifiTruck]
+[2026.08.31-13.58.06:680][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Vehicle/M_ScifiTruck" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Textures/Vehicle/M_ScifiTruck.uasset" SILENT=true
+[2026.08.31-13.58.06:683][ 26]LogSavePackage: Moving output files for package: /Game/Textures/Vehicle/M_ScifiTruck
+[2026.08.31-13.58.06:683][ 26]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Saved/M_ScifiTruck440E5A4948AE0B448D70E9AB65A80122.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Textures/Vehicle/M_ScifiTruck.uasset'
+[2026.08.31-13.58.06:691][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.439 ms (total: 395.748 ms)
+[2026.08.31-13.58.06:720][ 26]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.31-13.58.06:720][ 26]LogContentValidation: Enabled validators:
+[2026.08.31-13.58.06:720][ 26]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.31-13.58.06:720][ 26]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.31-13.58.06:720][ 26]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.31-13.58.06:720][ 26]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.31-13.58.06:720][ 26]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.31-13.58.06:720][ 26]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.31-13.58.06:720][ 26]AssetCheck: /Game/Textures/Vehicle/M_ScifiTruck Validating asset
+[2026.08.31-13.58.06:733][ 26]MaterialEditorStats: Base pass shader: 191 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.08.31-13.58.06:733][ 26]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.58.06:733][ 26]MaterialEditorStats: Base pass vertex shader: 293 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.58.06:733][ 26]MaterialEditorStats: Nanite Compute Shader: 1054 instructions
+Stats: Resources Used: 16
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.08.31-13.58.06:733][ 26]MaterialEditorStats: Texture samplers: 4/16
+[2026.08.31-13.58.06:733][ 26]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.58.06:733][ 26]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.58.06:733][ 26]MaterialEditorStats: Shader Count: 26
+[2026.08.31-13.58.06:733][ 26]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.58.10:611][259]MaterialEditorStats: Texture samplers: 0/16
+[2026.08.31-13.58.10:611][259]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.58.10:611][259]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.58.10:611][259]MaterialEditorStats: Shader Count: 0
+[2026.08.31-13.58.10:611][259]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.58.10:640][261]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.58.10:640][261]MaterialEditorStats: Texture samplers: 0/16
+[2026.08.31-13.58.10:640][261]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.58.10:640][261]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.58.10:640][261]MaterialEditorStats: Shader Count: 2
+[2026.08.31-13.58.10:640][261]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.58.11:040][285]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.58.11:040][285]MaterialEditorStats: Texture samplers: 2/16
+[2026.08.31-13.58.11:040][285]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.58.11:040][285]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.58.11:040][285]MaterialEditorStats: Shader Count: 3
+[2026.08.31-13.58.11:040][285]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.58.11:139][291]MaterialEditorStats: Base pass shader: 190 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.08.31-13.58.11:139][291]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.58.11:139][291]MaterialEditorStats: Texture samplers: 4/16
+[2026.08.31-13.58.11:139][291]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.58.11:139][291]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.58.11:139][291]MaterialEditorStats: Shader Count: 4
+[2026.08.31-13.58.11:139][291]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.58.19:020][742]MaterialEditorStats: Texture samplers: 0/16
+[2026.08.31-13.58.19:020][742]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.58.19:020][742]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.58.19:020][742]MaterialEditorStats: Shader Count: 0
+[2026.08.31-13.58.19:020][742]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.58.19:052][744]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.58.19:053][744]MaterialEditorStats: Texture samplers: 0/16
+[2026.08.31-13.58.19:053][744]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.58.19:053][744]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.58.19:053][744]MaterialEditorStats: Shader Count: 2
+[2026.08.31-13.58.19:053][744]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.58.19:420][766]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.58.19:420][766]MaterialEditorStats: Texture samplers: 3/16
+[2026.08.31-13.58.19:420][766]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.58.19:420][766]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.58.19:420][766]MaterialEditorStats: Shader Count: 3
+[2026.08.31-13.58.19:420][766]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.58.19:535][773]MaterialEditorStats: Base pass shader: 191 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.08.31-13.58.19:536][773]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.58.19:536][773]MaterialEditorStats: Texture samplers: 4/16
+[2026.08.31-13.58.19:536][773]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.58.19:536][773]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.58.19:536][773]MaterialEditorStats: Shader Count: 4
+[2026.08.31-13.58.19:536][773]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.58.20:402][824]LogMaterialEditor: Saving and Compiling material M_ScifiTruck
+[2026.08.31-13.58.20:474][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.08.31-13.58.22:436][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.08.31-13.58.22:448][824]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.31-13.58.22:473][824]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Vehicle/M_ScifiTruck] ([1] browsable assets)...
+[2026.08.31-13.58.22:479][824]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Textures/Vehicle/M_ScifiTruck.M_ScifiTruck]
+[2026.08.31-13.58.22:479][824]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Vehicle/M_ScifiTruck]
+[2026.08.31-13.58.22:479][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Vehicle/M_ScifiTruck" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Textures/Vehicle/M_ScifiTruck.uasset" SILENT=true
+[2026.08.31-13.58.22:481][824]LogSavePackage: Moving output files for package: /Game/Textures/Vehicle/M_ScifiTruck
+[2026.08.31-13.58.22:481][824]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Saved/M_ScifiTruck1D11F0AD41D6919681478B9DCFE834CC.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Textures/Vehicle/M_ScifiTruck.uasset'
+[2026.08.31-13.58.22:489][824]LogFileHelpers: InternalPromptForCheckoutAndSave took 40.604 ms (total: 436.352 ms)
+[2026.08.31-13.58.22:522][824]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.31-13.58.22:522][824]LogContentValidation: Enabled validators:
+[2026.08.31-13.58.22:522][824]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.31-13.58.22:522][824]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.31-13.58.22:522][824]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.31-13.58.22:522][824]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.31-13.58.22:522][824]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.31-13.58.22:522][824]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.31-13.58.22:522][824]AssetCheck: /Game/Textures/Vehicle/M_ScifiTruck Validating asset
+[2026.08.31-13.58.22:534][824]MaterialEditorStats: Base pass shader: 191 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.08.31-13.58.22:534][824]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.58.22:534][824]MaterialEditorStats: Base pass vertex shader: 293 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-13.58.22:534][824]MaterialEditorStats: Nanite Compute Shader: 1054 instructions
+Stats: Resources Used: 16
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.08.31-13.58.22:534][824]MaterialEditorStats: Texture samplers: 4/16
+[2026.08.31-13.58.22:534][824]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-13.58.22:534][824]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-13.58.22:534][824]MaterialEditorStats: Shader Count: 26
+[2026.08.31-13.58.22:534][824]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-13.58.54:362][705]LogContentBrowser: Deferred new asset file creation: M_ScifiTruck_Inst
+[2026.08.31-13.58.54:371][705]LogContentBrowser: Creating deferred item: M_ScifiTruck_Inst
+[2026.08.31-13.58.54:385][706]LogContentBrowser: Renaming the item being created (Deferred Item: M_ScifiTruck_Inst).
+[2026.08.31-13.59.06:578][438]LogContentBrowser: Attempting asset rename: M_ScifiTruck_Inst -> MI_Wheels
+[2026.08.31-13.59.06:581][438]LogContentBrowser: End creating deferred item M_ScifiTruck_Inst
+[2026.08.31-13.59.07:970][519]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.31-13.59.08:000][519]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Vehicle/MI_Wheels] ([1] browsable assets)...
+[2026.08.31-13.59.08:032][519]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Textures/Vehicle/MI_Wheels.MI_Wheels]
+[2026.08.31-13.59.08:032][519]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Vehicle/MI_Wheels]
+[2026.08.31-13.59.08:032][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Vehicle/MI_Wheels" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Textures/Vehicle/MI_Wheels.uasset" SILENT=true
+[2026.08.31-13.59.08:033][519]LogSavePackage: Moving output files for package: /Game/Textures/Vehicle/MI_Wheels
+[2026.08.31-13.59.08:033][519]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Saved/MI_WheelsFAB48EE34A84A5376CE1A2B2A738BCA3.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Textures/Vehicle/MI_Wheels.uasset'
+[2026.08.31-13.59.08:042][519]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.930 ms (total: 508.283 ms)
+[2026.08.31-13.59.08:071][519]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.31-13.59.08:071][519]LogContentValidation: Enabled validators:
+[2026.08.31-13.59.08:071][519]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.31-13.59.08:071][519]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.31-13.59.08:071][519]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.31-13.59.08:071][519]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.31-13.59.08:071][519]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.31-13.59.08:072][519]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.31-13.59.08:072][519]AssetCheck: /Game/Textures/Vehicle/MI_Wheels Validating asset
+[2026.08.31-13.59.08:091][519]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Saved/SourceControl/UncontrolledChangelists.json
+[2026.08.31-13.59.23:530][432]LogStreaming: Display: FlushAsyncLoading(340): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.31-13.59.23:534][432]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Mesh/Vehicle/SM_Wheel.SM_Wheel
+[2026.08.31-13.59.23:546][432]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.08.31-13.59.27:235][548]LogShaderCompilers: Display: ================================================
+[2026.08.31-13.59.27:235][548]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.08.31-13.59.27:235][548]LogShaderCompilers: Display: Total job queries 907, among them cache hits 320 (35.28%), DDC hits 358 (39.47%), Duplicates 111 (12.24%)
+[2026.08.31-13.59.27:235][548]LogShaderCompilers: Display: Tracking 476 distinct input hashes that result in 341 distinct outputs (71.64%)
+[2026.08.31-13.59.27:235][548]LogShaderCompilers: Display: RAM used: 4.41 MiB of 819.20 MiB budget. Usage: 0.54%
+[2026.08.31-13.59.27:235][548]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.08.31-13.59.27:235][548]LogShaderCompilers: Display: Shaders Compiled: 118
+[2026.08.31-13.59.27:235][548]LogShaderCompilers: Display: Jobs assigned 118, completed 118 (100%)
+[2026.08.31-13.59.27:235][548]LogShaderCompilers: Display: Average time worker was idle: 21.94 s
+[2026.08.31-13.59.27:235][548]LogShaderCompilers: Display: Time job spent in pending queue: average 0.11 s, longest 0.82 s
+[2026.08.31-13.59.27:235][548]LogShaderCompilers: Display: Job execution time: average 1.03 s, max 1.98 s
+[2026.08.31-13.59.27:235][548]LogShaderCompilers: Display: Job life time (pending + execution): average 1.14 s, max 2.08
+[2026.08.31-13.59.27:235][548]LogShaderCompilers: Display: Shader code size: total 1.629 MiB, numShaders 119, average 14.022 KiB, min 3.777 KiB, max 25.727 KiB
+[2026.08.31-13.59.27:235][548]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 23.94 s
+[2026.08.31-13.59.27:235][548]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2026.08.31-13.59.27:235][548]LogShaderCompilers: Display: Jobs were issued in 118 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.08.31-13.59.27:235][548]LogShaderCompilers: Display: Average processing rate: 4.93 jobs/sec
+[2026.08.31-13.59.27:235][548]LogShaderCompilers: Display: Total thread time: 105.914 s
+[2026.08.31-13.59.27:235][548]LogShaderCompilers: Display: Total thread preprocess time: 12.741 s
+[2026.08.31-13.59.27:235][548]LogShaderCompilers: Display: Percentage time preprocessing: 12.03%
+[2026.08.31-13.59.27:235][548]LogShaderCompilers: Display: Effective parallelization: 4.42 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.442407
+[2026.08.31-13.59.27:235][548]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.08.31-13.59.27:235][548]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    7 times, average 1.70 sec, max 1.76 sec, min 1.67 sec)
+[2026.08.31-13.59.27:235][548]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    7 times, average 1.69 sec, max 1.75 sec, min 1.65 sec)
+[2026.08.31-13.59.27:235][548]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    7 times, average 1.48 sec, max 1.51 sec, min 1.43 sec)
+[2026.08.31-13.59.27:235][548]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   14 times, average 1.32 sec, max 1.36 sec, min 1.28 sec)
+[2026.08.31-13.59.27:235][548]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled   14 times, average 1.13 sec, max 1.42 sec, min 0.84 sec)
+[2026.08.31-13.59.27:235][548]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.08.31-13.59.27:235][548]LogShaderCompilers: Display:                                             FDebugViewModePS - 17.50% of total time (compiled   14 times, average 1.32 sec, max 1.36 sec, min 1.28 sec)
+[2026.08.31-13.59.27:235][548]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 15.47% of total time (compiled   17 times, average 0.96 sec, max 1.42 sec, min 0.62 sec)
+[2026.08.31-13.59.27:235][548]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 15.00% of total time (compiled   14 times, average 1.13 sec, max 1.42 sec, min 0.84 sec)
+[2026.08.31-13.59.27:235][548]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 11.23% of total time (compiled    7 times, average 1.70 sec, max 1.76 sec, min 1.67 sec)
+[2026.08.31-13.59.27:236][548]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 11.19% of total time (compiled    7 times, average 1.69 sec, max 1.75 sec, min 1.65 sec)
+[2026.08.31-13.59.27:236][548]LogShaderCompilers: Display: === Material stats ===
+[2026.08.31-13.59.27:236][548]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.08.31-13.59.27:236][548]LogShaderCompilers: Display: Materials Translated:    211
+[2026.08.31-13.59.27:236][548]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2026.08.31-13.59.27:236][548]LogShaderCompilers: Display: Material Translation Only: 0.05 s (44%)
+[2026.08.31-13.59.27:236][548]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.08.31-13.59.27:236][548]LogShaderCompilers: Display: Material Cache Hits: 17 (8%)
+[2026.08.31-13.59.27:236][548]LogShaderCompilers: Display: ================================================
+[2026.08.31-13.59.29:149][660]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-4.581 Y=-0.138 Z=-3.276, BoxExtent=(X=67.688 Y=33.877 Z=64.305), SphereRadius=(95.104370)) and MeshDescription Bounds (Origin=X=0.000 Y=0.000 Z=0.000, BoxExtent=(X=61.029 Y=31.814 Z=61.029), SphereRadius=(61.789927)) is significative for StaticMesh /Game/Mesh/Vehicle/SM_Wheel.SM_Wheel
+[2026.08.31-13.59.30:860][745]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.31-13.59.30:886][745]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/Vehicle/SM_Wheel] ([1] browsable assets)...
+[2026.08.31-13.59.30:894][745]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/Vehicle/SM_Wheel.SM_Wheel]
+[2026.08.31-13.59.30:894][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/Vehicle/SM_Wheel]
+[2026.08.31-13.59.30:894][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Vehicle/SM_Wheel" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Mesh/Vehicle/SM_Wheel.uasset" SILENT=true
+[2026.08.31-13.59.30:900][745]LogSavePackage: Moving output files for package: /Game/Mesh/Vehicle/SM_Wheel
+[2026.08.31-13.59.30:900][745]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Saved/SM_Wheel952E9E614F0BD9F3AF5298BAAE3DB002.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Mesh/Vehicle/SM_Wheel.uasset'
+[2026.08.31-13.59.30:906][745]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.318 ms (total: 555.602 ms)
+[2026.08.31-13.59.30:933][745]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.31-13.59.30:933][745]LogContentValidation: Enabled validators:
+[2026.08.31-13.59.30:933][745]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.31-13.59.30:933][745]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.31-13.59.30:933][745]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.31-13.59.30:933][745]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.31-13.59.30:933][745]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.31-13.59.30:933][745]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.31-13.59.30:933][745]AssetCheck: /Game/Mesh/Vehicle/SM_Wheel Validating asset
+[2026.08.31-13.59.36:322][ 56]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Textures/Vehicle/MI_Wheels.MI_Wheels
+[2026.08.31-13.59.36:326][ 56]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.08.31-13.59.49:502][798]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.08.31-13.59.49:502][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.31-13.59.49:563][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.08.31-14.00.05:047][627]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Textures/Vehicle/MI_Wheels.MI_Wheels
+[2026.08.31-14.00.05:050][627]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.08.31-14.00.22:700][643]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.08.31-14.00.22:700][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.31-14.00.22:742][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.08.31-14.00.25:546][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.08.31-14.00.25:661][807]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.08.31-14.00.25:668][807]LogSlate: Took 0.006629 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.08.31-14.00.28:034][807]LogSlate: Window 'Delete Assets' being destroyed
+[2026.08.31-14.00.29:252][877]LogContentBrowser: Deferred new asset file creation: M_ScifiTruck1
+[2026.08.31-14.00.29:262][877]LogContentBrowser: Creating deferred item: M_ScifiTruck1
+[2026.08.31-14.00.29:278][878]LogContentBrowser: Renaming the item being created (Deferred Item: M_ScifiTruck1).
+[2026.08.31-14.00.33:954][159]LogContentBrowser: Attempting asset rename: M_ScifiTruck1 -> M_Wheels
+[2026.08.31-14.00.33:959][159]LogContentBrowser: End creating deferred item M_ScifiTruck1
+[2026.08.31-14.00.35:683][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.08.31-14.00.50:496][258]LogSlate: Window 'Delete Assets' being destroyed
+[2026.08.31-14.00.50:582][258]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.08.31-14.00.50:582][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.31-14.00.50:594][258]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Textures/Vehicle/MI_Wheels.MI_Wheels
+	Asset Type: MaterialInstanceConstant
+[2026.08.31-14.00.50:916][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.08.31-14.00.50:939][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.08.31-14.00.50:954][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.08.31-14.00.50:976][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.08.31-14.00.50:978][258]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-4.581 Y=-0.138 Z=-3.276, BoxExtent=(X=67.688 Y=33.877 Z=64.305), SphereRadius=(95.104370)) and MeshDescription Bounds (Origin=X=0.000 Y=0.000 Z=0.000, BoxExtent=(X=61.029 Y=31.814 Z=61.029), SphereRadius=(61.789927)) is significative for StaticMesh /Game/Mesh/Vehicle/SM_Wheel.SM_Wheel
+[2026.08.31-14.01.04:602][ 55]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Mesh/Vehicle/SM_Wheel.SM_Wheel
+[2026.08.31-14.01.04:608][ 55]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.08.31-14.01.10:626][361]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-4.581 Y=-0.138 Z=-3.276, BoxExtent=(X=67.688 Y=33.877 Z=64.305), SphereRadius=(95.104370)) and MeshDescription Bounds (Origin=X=0.000 Y=0.000 Z=0.000, BoxExtent=(X=61.029 Y=31.814 Z=61.029), SphereRadius=(61.789927)) is significative for StaticMesh /Game/Mesh/Vehicle/SM_Wheel.SM_Wheel
+[2026.08.31-14.01.11:317][394]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3169.354736
+[2026.08.31-14.01.11:447][402]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.31-14.01.11:476][402]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/Vehicle/SM_Wheel] ([1] browsable assets)...
+[2026.08.31-14.01.11:484][402]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/Vehicle/SM_Wheel.SM_Wheel]
+[2026.08.31-14.01.11:484][402]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/Vehicle/SM_Wheel]
+[2026.08.31-14.01.11:484][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Vehicle/SM_Wheel" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Mesh/Vehicle/SM_Wheel.uasset" SILENT=true
+[2026.08.31-14.01.11:491][402]LogSavePackage: Moving output files for package: /Game/Mesh/Vehicle/SM_Wheel
+[2026.08.31-14.01.11:491][402]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Saved/SM_Wheel5547D7F142A742F9CCE96B94EB9C91EA.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Mesh/Vehicle/SM_Wheel.uasset'
+[2026.08.31-14.01.11:499][402]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.488 ms (total: 607.090 ms)
+[2026.08.31-14.01.11:529][402]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.31-14.01.11:529][402]LogContentValidation: Enabled validators:
+[2026.08.31-14.01.11:529][402]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.31-14.01.11:529][402]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.31-14.01.11:529][402]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.31-14.01.11:529][402]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.31-14.01.11:529][402]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.31-14.01.11:529][402]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.31-14.01.11:529][402]AssetCheck: /Game/Mesh/Vehicle/SM_Wheel Validating asset
+[2026.08.31-14.01.11:619][407]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.31-14.01.11:619][407]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3169.639648, Update Interval: 345.292511
+[2026.08.31-14.01.15:600][642]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.31-14.01.15:629][642]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Skeleton/Vehicle/SKEL_Vehicle] ([1] browsable assets)...
+[2026.08.31-14.01.15:629][642]OBJ SavePackage: Finished generating thumbnails for package [/Game/Skeleton/Vehicle/SKEL_Vehicle]
+[2026.08.31-14.01.15:629][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Skeleton/Vehicle/SKEL_Vehicle" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Skeleton/Vehicle/SKEL_Vehicle.uasset" SILENT=true
+[2026.08.31-14.01.15:631][642]LogSavePackage: Moving output files for package: /Game/Skeleton/Vehicle/SKEL_Vehicle
+[2026.08.31-14.01.15:631][642]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Saved/SKEL_Vehicle2174AB2A49F5AD8AFAE842924234D014.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Skeleton/Vehicle/SKEL_Vehicle.uasset'
+[2026.08.31-14.01.15:638][642]LogFileHelpers: InternalPromptForCheckoutAndSave took 37.659 ms (total: 644.750 ms)
+[2026.08.31-14.01.15:664][642]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.31-14.01.15:664][642]LogContentValidation: Enabled validators:
+[2026.08.31-14.01.15:664][642]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.31-14.01.15:664][642]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.31-14.01.15:664][642]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.31-14.01.15:664][642]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.31-14.01.15:664][642]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.31-14.01.15:664][642]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.31-14.01.15:664][642]AssetCheck: /Game/Skeleton/Vehicle/SKEL_Vehicle Validating asset
+[2026.08.31-14.01.49:102][629]LogEditorTransaction: Undo Move Node
+[2026.08.31-14.01.49:561][629]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.08.31-14.01.49:562][629]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.08.31-14.01.49:688][631]LogEditorTransaction: Undo Move Node
+[2026.08.31-14.01.50:124][631]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.08.31-14.01.50:124][631]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.08.31-14.01.51:409][703]LogEditorTransaction: Redo Move Node
+[2026.08.31-14.01.51:842][703]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.08.31-14.01.51:843][703]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.08.31-14.02.15:499][105]LogMaterialEditor: Saving and Compiling material M_ScifiTruck
+[2026.08.31-14.02.15:594][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.08.31-14.02.15:759][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.08.31-14.02.15:769][105]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.31-14.02.15:796][105]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Vehicle/M_ScifiTruck] ([1] browsable assets)...
+[2026.08.31-14.02.15:808][105]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Textures/Vehicle/M_ScifiTruck.M_ScifiTruck]
+[2026.08.31-14.02.15:808][105]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Vehicle/M_ScifiTruck]
+[2026.08.31-14.02.15:808][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Vehicle/M_ScifiTruck" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Textures/Vehicle/M_ScifiTruck.uasset" SILENT=true
+[2026.08.31-14.02.15:810][105]LogSavePackage: Moving output files for package: /Game/Textures/Vehicle/M_ScifiTruck
+[2026.08.31-14.02.15:811][105]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Saved/M_ScifiTruck4A9BDDE04411482ED695D9BB363AD2F4.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Textures/Vehicle/M_ScifiTruck.uasset'
+[2026.08.31-14.02.15:818][105]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.676 ms (total: 694.426 ms)
+[2026.08.31-14.02.15:852][105]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.31-14.02.15:852][105]LogContentValidation: Enabled validators:
+[2026.08.31-14.02.15:852][105]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.31-14.02.15:852][105]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.31-14.02.15:852][105]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.31-14.02.15:852][105]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.31-14.02.15:852][105]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.31-14.02.15:852][105]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.31-14.02.15:852][105]AssetCheck: /Game/Textures/Vehicle/M_ScifiTruck Validating asset
+[2026.08.31-14.02.20:869][396]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Textures/Vehicle/M_Wheels.M_Wheels
+[2026.08.31-14.02.20:872][396]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.08.31-14.02.21:360][396]MaterialEditorStats: Texture samplers: 0/16
+[2026.08.31-14.02.21:360][396]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-14.02.21:360][396]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-14.02.21:360][396]MaterialEditorStats: Shader Count: 0
+[2026.08.31-14.02.21:360][396]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-14.02.21:435][398]MaterialEditorStats: Base pass shader: 191 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.08.31-14.02.21:435][398]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-14.02.21:435][398]MaterialEditorStats: Texture samplers: 4/16
+[2026.08.31-14.02.21:435][398]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-14.02.21:435][398]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-14.02.21:435][398]MaterialEditorStats: Shader Count: 5
+[2026.08.31-14.02.21:435][398]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-14.02.22:304][448]LogMaterialEditor: Saving and Compiling material M_Wheels
+[2026.08.31-14.02.22:306][448]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.31-14.02.22:330][448]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Vehicle/M_Wheels] ([1] browsable assets)...
+[2026.08.31-14.02.22:374][448]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Textures/Vehicle/M_Wheels.M_Wheels]
+[2026.08.31-14.02.22:374][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Vehicle/M_Wheels]
+[2026.08.31-14.02.22:374][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Vehicle/M_Wheels" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Textures/Vehicle/M_Wheels.uasset" SILENT=true
+[2026.08.31-14.02.22:377][448]LogSavePackage: Moving output files for package: /Game/Textures/Vehicle/M_Wheels
+[2026.08.31-14.02.22:377][448]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Saved/M_Wheels5F65A8314133F121CA91BEB755206E50.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Textures/Vehicle/M_Wheels.uasset'
+[2026.08.31-14.02.22:387][448]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.121 ms (total: 775.547 ms)
+[2026.08.31-14.02.22:418][448]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.31-14.02.22:418][448]LogContentValidation: Enabled validators:
+[2026.08.31-14.02.22:418][448]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.31-14.02.22:418][448]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.31-14.02.22:418][448]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.31-14.02.22:418][448]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.31-14.02.22:418][448]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.31-14.02.22:418][448]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.31-14.02.22:418][448]AssetCheck: /Game/Textures/Vehicle/M_Wheels Validating asset
+[2026.08.31-14.02.22:436][448]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Saved/SourceControl/UncontrolledChangelists.json
+[2026.08.31-14.02.37:497][345]LogEditorTransaction: Undo Move Nodes
+[2026.08.31-14.02.37:968][345]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.08.31-14.02.37:969][345]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.08.31-14.02.38:587][377]LogEditorTransaction: Undo Move Nodes
+[2026.08.31-14.02.39:035][377]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.08.31-14.02.39:036][377]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.08.31-14.02.39:654][410]LogEditorTransaction: Undo Align Left
+[2026.08.31-14.02.40:091][410]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.08.31-14.02.40:092][410]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.08.31-14.03.04:501][857]LogMaterialEditor: Saving and Compiling material M_Wheels
+[2026.08.31-14.03.04:590][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.08.31-14.03.05:786][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.08.31-14.03.05:796][857]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.31-14.03.05:819][857]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Vehicle/M_Wheels] ([1] browsable assets)...
+[2026.08.31-14.03.05:829][857]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Textures/Vehicle/M_Wheels.M_Wheels]
+[2026.08.31-14.03.05:829][857]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Vehicle/M_Wheels]
+[2026.08.31-14.03.05:829][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Vehicle/M_Wheels" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Textures/Vehicle/M_Wheels.uasset" SILENT=true
+[2026.08.31-14.03.05:831][857]LogSavePackage: Moving output files for package: /Game/Textures/Vehicle/M_Wheels
+[2026.08.31-14.03.05:831][857]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Saved/M_WheelsA7BA6A91442A78040F680186D4316069.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Textures/Vehicle/M_Wheels.uasset'
+[2026.08.31-14.03.05:838][857]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.321 ms (total: 817.869 ms)
+[2026.08.31-14.03.05:861][857]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.31-14.03.05:861][857]LogContentValidation: Enabled validators:
+[2026.08.31-14.03.05:861][857]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.31-14.03.05:861][857]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.31-14.03.05:861][857]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.31-14.03.05:861][857]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.31-14.03.05:861][857]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.31-14.03.05:861][857]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.31-14.03.05:861][857]AssetCheck: /Game/Textures/Vehicle/M_Wheels Validating asset
+[2026.08.31-14.03.05:876][857]MaterialEditorStats: Base pass shader: 191 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.08.31-14.03.05:876][857]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-14.03.05:876][857]MaterialEditorStats: Base pass vertex shader: 293 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-14.03.05:876][857]MaterialEditorStats: Nanite Compute Shader: 1054 instructions
+Stats: Resources Used: 16
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.08.31-14.03.05:876][857]MaterialEditorStats: Texture samplers: 4/16
+[2026.08.31-14.03.05:876][857]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-14.03.05:876][857]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-14.03.05:876][857]MaterialEditorStats: Shader Count: 26
+[2026.08.31-14.03.05:876][857]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-14.03.10:250][118]MaterialEditorStats: Texture samplers: 0/16
+[2026.08.31-14.03.10:250][118]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-14.03.10:250][118]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-14.03.10:250][118]MaterialEditorStats: Shader Count: 0
+[2026.08.31-14.03.10:250][118]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-14.03.10:279][120]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-14.03.10:279][120]MaterialEditorStats: Texture samplers: 2/16
+[2026.08.31-14.03.10:279][120]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-14.03.10:279][120]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-14.03.10:279][120]MaterialEditorStats: Shader Count: 3
+[2026.08.31-14.03.10:279][120]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-14.03.10:295][121]MaterialEditorStats: Base pass shader: 190 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.08.31-14.03.10:295][121]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-14.03.10:295][121]MaterialEditorStats: Texture samplers: 4/16
+[2026.08.31-14.03.10:295][121]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-14.03.10:295][121]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-14.03.10:295][121]MaterialEditorStats: Shader Count: 5
+[2026.08.31-14.03.10:295][121]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-14.03.11:428][189]LogMaterialEditor: Saving and Compiling material M_Wheels
+[2026.08.31-14.03.11:499][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.08.31-14.03.13:771][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.08.31-14.03.13:785][189]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.31-14.03.13:819][189]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Vehicle/M_Wheels] ([1] browsable assets)...
+[2026.08.31-14.03.13:828][189]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Textures/Vehicle/M_Wheels.M_Wheels]
+[2026.08.31-14.03.13:828][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Vehicle/M_Wheels]
+[2026.08.31-14.03.13:828][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Vehicle/M_Wheels" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Textures/Vehicle/M_Wheels.uasset" SILENT=true
+[2026.08.31-14.03.13:832][189]LogSavePackage: Moving output files for package: /Game/Textures/Vehicle/M_Wheels
+[2026.08.31-14.03.13:832][189]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Saved/M_WheelsA85B4FF744D9566BD5058BA94D7C0DE4.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Textures/Vehicle/M_Wheels.uasset'
+[2026.08.31-14.03.13:839][189]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.802 ms (total: 871.671 ms)
+[2026.08.31-14.03.13:868][189]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.31-14.03.13:868][189]LogContentValidation: Enabled validators:
+[2026.08.31-14.03.13:868][189]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.31-14.03.13:868][189]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.31-14.03.13:868][189]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.31-14.03.13:868][189]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.31-14.03.13:868][189]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.31-14.03.13:868][189]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.31-14.03.13:868][189]AssetCheck: /Game/Textures/Vehicle/M_Wheels Validating asset
+[2026.08.31-14.03.13:880][189]MaterialEditorStats: Base pass shader: 190 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.08.31-14.03.13:880][189]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-14.03.13:880][189]MaterialEditorStats: Base pass vertex shader: 293 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-14.03.13:880][189]MaterialEditorStats: Nanite Compute Shader: 1053 instructions
+Stats: Resources Used: 16
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.08.31-14.03.13:880][189]MaterialEditorStats: Texture samplers: 4/16
+[2026.08.31-14.03.13:880][189]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-14.03.13:880][189]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-14.03.13:880][189]MaterialEditorStats: Shader Count: 26
+[2026.08.31-14.03.13:880][189]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-14.03.19:832][519]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.31-14.03.19:862][519]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Skeleton/Vehicle/SKM_Vehicle] ([1] browsable assets)...
+[2026.08.31-14.03.19:862][519]OBJ SavePackage: Finished generating thumbnails for package [/Game/Skeleton/Vehicle/SKM_Vehicle]
+[2026.08.31-14.03.19:862][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Skeleton/Vehicle/SKM_Vehicle" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Skeleton/Vehicle/SKM_Vehicle.uasset" SILENT=true
+[2026.08.31-14.03.19:882][519]LogSavePackage: Moving output files for package: /Game/Skeleton/Vehicle/SKM_Vehicle
+[2026.08.31-14.03.19:882][519]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Saved/SKM_Vehicle7BBA3BDA4702A419565C4AB55BC34145.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Skeleton/Vehicle/SKM_Vehicle.uasset'
+[2026.08.31-14.03.19:891][519]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.476 ms (total: 930.148 ms)
+[2026.08.31-14.03.19:917][519]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.31-14.03.19:917][519]LogContentValidation: Enabled validators:
+[2026.08.31-14.03.19:917][519]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.31-14.03.19:917][519]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.31-14.03.19:917][519]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.31-14.03.19:917][519]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.31-14.03.19:917][519]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.31-14.03.19:917][519]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.31-14.03.19:917][519]AssetCheck: /Game/Skeleton/Vehicle/SKM_Vehicle Validating asset
+[2026.08.31-14.03.32:808][265]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Mesh/Vehicle/SM_Vehicle) ...
+[2026.08.31-14.03.35:667][429]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Mesh/Vehicle/SM_Vehicle) ...
+[2026.08.31-14.03.50:422][306]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.08.31-14.03.50:422][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.31-14.03.50:450][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.08.31-14.03.53:462][484]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.08.31-14.03.53:462][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.31-14.03.53:489][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.08.31-14.04.00:371][892]MaterialEditorStats: Texture samplers: 0/16
+[2026.08.31-14.04.00:371][892]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-14.04.00:371][892]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-14.04.00:371][892]MaterialEditorStats: Shader Count: 0
+[2026.08.31-14.04.00:371][892]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-14.04.00:955][926]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-14.04.00:955][926]MaterialEditorStats: Texture samplers: 4/16
+[2026.08.31-14.04.00:955][926]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-14.04.00:955][926]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-14.04.00:955][926]MaterialEditorStats: Shader Count: 3
+[2026.08.31-14.04.00:955][926]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-14.04.01:072][933]MaterialEditorStats: Base pass shader: 199 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.08.31-14.04.01:072][933]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-14.04.01:072][933]MaterialEditorStats: Texture samplers: 5/16
+[2026.08.31-14.04.01:072][933]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-14.04.01:072][933]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-14.04.01:072][933]MaterialEditorStats: Shader Count: 4
+[2026.08.31-14.04.01:072][933]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-14.04.02:579][ 23]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.31-14.04.02:588][ 23]MaterialEditorStats: Texture samplers: 0/16
+[2026.08.31-14.04.02:588][ 23]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-14.04.02:588][ 23]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-14.04.02:588][ 23]MaterialEditorStats: Shader Count: 0
+[2026.08.31-14.04.02:588][ 23]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-14.04.02:643][ 26]MaterialEditorStats: Base pass shader: 199 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.08.31-14.04.02:643][ 26]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-14.04.02:643][ 26]MaterialEditorStats: Texture samplers: 5/16
+[2026.08.31-14.04.02:643][ 26]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-14.04.02:643][ 26]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-14.04.02:643][ 26]MaterialEditorStats: Shader Count: 5
+[2026.08.31-14.04.02:643][ 26]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-14.04.03:861][ 98]LogMaterialEditor: Saving and Compiling material M_ScifiTruck
+[2026.08.31-14.04.03:937][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.08.31-14.04.06:049][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.08.31-14.04.06:061][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.31-14.04.06:080][ 98]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Vehicle/M_ScifiTruck] ([1] browsable assets)...
+[2026.08.31-14.04.06:090][ 98]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Textures/Vehicle/M_ScifiTruck.M_ScifiTruck]
+[2026.08.31-14.04.06:090][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Vehicle/M_ScifiTruck]
+[2026.08.31-14.04.06:090][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Vehicle/M_ScifiTruck" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Textures/Vehicle/M_ScifiTruck.uasset" SILENT=true
+[2026.08.31-14.04.06:092][ 98]LogSavePackage: Moving output files for package: /Game/Textures/Vehicle/M_ScifiTruck
+[2026.08.31-14.04.06:093][ 98]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Saved/M_ScifiTruckA2D42ABF49EC4CC3CF084FA0C2ADF552.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Textures/Vehicle/M_ScifiTruck.uasset'
+[2026.08.31-14.04.06:100][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.764 ms (total: 969.913 ms)
+[2026.08.31-14.04.06:120][ 98]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.31-14.04.06:120][ 98]LogContentValidation: Enabled validators:
+[2026.08.31-14.04.06:120][ 98]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.31-14.04.06:120][ 98]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.31-14.04.06:120][ 98]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.31-14.04.06:120][ 98]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.31-14.04.06:120][ 98]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.31-14.04.06:120][ 98]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.31-14.04.06:120][ 98]AssetCheck: /Game/Textures/Vehicle/M_ScifiTruck Validating asset
+[2026.08.31-14.04.06:134][ 98]MaterialEditorStats: Base pass shader: 199 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.08.31-14.04.06:134][ 98]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-14.04.06:134][ 98]MaterialEditorStats: Base pass vertex shader: 293 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.31-14.04.06:134][ 98]MaterialEditorStats: Nanite Compute Shader: 1062 instructions
+Stats: Resources Used: 17
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.08.31-14.04.06:134][ 98]MaterialEditorStats: Texture samplers: 5/16
+[2026.08.31-14.04.06:134][ 98]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.31-14.04.06:134][ 98]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.31-14.04.06:134][ 98]MaterialEditorStats: Shader Count: 26
+[2026.08.31-14.04.06:134][ 98]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.31-14.04.09:535][296]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.31-14.04.09:565][296]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/Vehicle/SM_Vehicle] ([1] browsable assets)...
+[2026.08.31-14.04.09:576][296]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/Vehicle/SM_Vehicle.SM_Vehicle]
+[2026.08.31-14.04.09:576][296]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/Vehicle/SM_Vehicle]
+[2026.08.31-14.04.09:576][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Vehicle/SM_Vehicle" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Mesh/Vehicle/SM_Vehicle.uasset" SILENT=true
+[2026.08.31-14.04.09:596][296]LogSavePackage: Moving output files for package: /Game/Mesh/Vehicle/SM_Vehicle
+[2026.08.31-14.04.09:597][296]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Saved/SM_Vehicle1B5D68F543E7FAB84E640AA70698C293.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Mesh/Vehicle/SM_Vehicle.uasset'
+[2026.08.31-14.04.09:604][296]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.922 ms (total: 1.03 sec)
+[2026.08.31-14.04.09:637][296]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.31-14.04.09:637][296]LogContentValidation: Enabled validators:
+[2026.08.31-14.04.09:637][296]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.31-14.04.09:637][296]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.31-14.04.09:637][296]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.31-14.04.09:637][296]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.31-14.04.09:637][296]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.31-14.04.09:637][296]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.31-14.04.09:637][296]AssetCheck: /Game/Mesh/Vehicle/SM_Vehicle Validating asset
+[2026.08.31-14.04.11:018][373]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.08.31-14.04.11:020][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.31-14.04.11:058][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.08.31-14.04.12:651][445]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.08.31-14.04.12:651][445]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.31-14.04.12:720][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.08.31-14.04.13:056][463]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.08.31-14.04.13:056][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.31-14.04.13:092][463]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.08.31-14.04.13:092][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.31-14.04.13:116][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.08.31-14.04.13:504][485]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.08.31-14.04.13:504][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.31-14.04.13:539][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
