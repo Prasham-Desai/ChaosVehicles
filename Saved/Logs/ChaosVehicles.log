@@ -1444,3 +1444,94 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2026.08.31-14.27.19:215][888]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.08.31-14.27.19:215][888]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.08.31-14.27.19:215][888]AssetCheck: /Game/Blueprints/Vehicle/BP_FrontWheel Validating asset
+[2026.08.31-14.32.24:637][865]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 664.144104
+[2026.08.31-14.32.25:639][868]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.31-14.32.25:639][868]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 664.812317, Update Interval: 322.573944
+[2026.08.31-14.35.33:460][757]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Mesh/Vehicle/SM_Wheel.SM_Wheel
+[2026.08.31-14.35.33:476][757]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.08.31-14.35.33:481][757]LogStreaming: Display: FlushAsyncLoading(527): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.31-14.35.36:449][881]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-4.581 Y=-0.138 Z=-3.276, BoxExtent=(X=67.688 Y=33.877 Z=64.305), SphereRadius=(95.104370)) and MeshDescription Bounds (Origin=X=0.000 Y=0.000 Z=0.000, BoxExtent=(X=61.029 Y=31.814 Z=61.029), SphereRadius=(61.789927)) is significative for StaticMesh /Game/Mesh/Vehicle/SM_Wheel.SM_Wheel
+[2026.08.31-14.35.37:720][947]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.31-14.35.37:750][947]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/Vehicle/SM_Wheel] ([1] browsable assets)...
+[2026.08.31-14.35.37:759][947]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/Vehicle/SM_Wheel.SM_Wheel]
+[2026.08.31-14.35.37:759][947]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/Vehicle/SM_Wheel]
+[2026.08.31-14.35.37:760][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Vehicle/SM_Wheel" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Mesh/Vehicle/SM_Wheel.uasset" SILENT=true
+[2026.08.31-14.35.37:770][947]LogSavePackage: Moving output files for package: /Game/Mesh/Vehicle/SM_Wheel
+[2026.08.31-14.35.37:770][947]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Saved/SM_Wheel91788B974ACF476245C7EF9FFEC164D9.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Mesh/Vehicle/SM_Wheel.uasset'
+[2026.08.31-14.35.37:777][947]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.563 ms (total: 750.794 ms)
+[2026.08.31-14.35.37:802][947]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.31-14.35.37:802][947]LogContentValidation: Enabled validators:
+[2026.08.31-14.35.37:802][947]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.31-14.35.37:802][947]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.31-14.35.37:802][947]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.31-14.35.37:802][947]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.31-14.35.37:804][947]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.31-14.35.37:804][947]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.31-14.35.37:804][947]AssetCheck: /Game/Mesh/Vehicle/SM_Wheel Validating asset
+[2026.08.31-14.35.38:481][986]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.08.31-14.35.38:481][986]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.31-14.35.38:539][986]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.08.31-14.35.39:868][ 66]LogRenderer: Using fallback RTPSO
+[2026.08.31-14.35.39:886][ 67]LogD3D12RHI: Creating RTPSO with 19 shaders (0 cached, 2 new) took 18.11 ms. Compile time 5.78 ms, link time 12.27 ms.
+[2026.08.31-14.35.58:983][868]LogSlate: Window 'Pick Curve Class' being destroyed
+[2026.08.31-14.35.58:993][868]LogContentBrowser: Deferred new asset file creation: NewCurveBase
+[2026.08.31-14.35.58:998][868]LogContentBrowser: Creating deferred item: NewCurveBase
+[2026.08.31-14.35.59:008][869]LogContentBrowser: Renaming the item being created (Deferred Item: NewCurveBase).
+[2026.08.31-14.36.03:419][134]LogContentBrowser: Attempting asset rename: NewCurveBase -> CF_Torque
+[2026.08.31-14.36.03:420][134]LogContentBrowser: End creating deferred item NewCurveBase
+[2026.08.31-14.36.03:829][158]LogAssetEditorSubsystem: Opening Asset editor for CurveFloat /Game/Physics/CF_Torque.CF_Torque
+[2026.08.31-14.37.23:227][560]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.31-14.37.23:256][560]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Physics/CF_Torque] ([1] browsable assets)...
+[2026.08.31-14.37.23:258][560]OBJ SavePackage:     Rendered thumbnail for [CurveFloat /Game/Physics/CF_Torque.CF_Torque]
+[2026.08.31-14.37.23:258][560]OBJ SavePackage: Finished generating thumbnails for package [/Game/Physics/CF_Torque]
+[2026.08.31-14.37.23:258][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Physics/CF_Torque" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Physics/CF_Torque.uasset" SILENT=true
+[2026.08.31-14.37.23:258][560]LogSavePackage: Moving output files for package: /Game/Physics/CF_Torque
+[2026.08.31-14.37.23:258][560]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Saved/CF_TorqueE8E0FF58415CAE8EBEE1AD928F728E0B.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Physics/CF_Torque.uasset'
+[2026.08.31-14.37.23:266][560]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.866 ms (total: 790.661 ms)
+[2026.08.31-14.37.23:298][560]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.31-14.37.23:298][560]LogContentValidation: Enabled validators:
+[2026.08.31-14.37.23:298][560]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.31-14.37.23:298][560]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.31-14.37.23:298][560]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.31-14.37.23:298][560]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.31-14.37.23:298][560]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.31-14.37.23:298][560]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.31-14.37.23:298][560]AssetCheck: /Game/Physics/CF_Torque Validating asset
+[2026.08.31-14.37.23:311][560]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Saved/SourceControl/UncontrolledChangelists.json
+[2026.08.31-14.37.55:578][326]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 995.085327
+[2026.08.31-14.37.55:878][343]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.31-14.37.55:878][343]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 995.368408, Update Interval: 349.950867
+[2026.08.31-14.37.58:677][511]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.31-14.37.58:707][511]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Physics/CF_Torque] ([1] browsable assets)...
+[2026.08.31-14.37.58:709][511]OBJ SavePackage:     Rendered thumbnail for [CurveFloat /Game/Physics/CF_Torque.CF_Torque]
+[2026.08.31-14.37.58:709][511]OBJ SavePackage: Finished generating thumbnails for package [/Game/Physics/CF_Torque]
+[2026.08.31-14.37.58:709][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Physics/CF_Torque" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Physics/CF_Torque.uasset" SILENT=true
+[2026.08.31-14.37.58:710][511]LogSavePackage: Moving output files for package: /Game/Physics/CF_Torque
+[2026.08.31-14.37.58:710][511]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Saved/CF_Torque490C2E1C4C8B398D7DC55BA22766DE63.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Physics/CF_Torque.uasset'
+[2026.08.31-14.37.58:717][511]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.335 ms (total: 831.996 ms)
+[2026.08.31-14.37.58:748][511]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.31-14.37.58:748][511]LogContentValidation: Enabled validators:
+[2026.08.31-14.37.58:748][511]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.31-14.37.58:748][511]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.31-14.37.58:748][511]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.31-14.37.58:748][511]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.31-14.37.58:748][511]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.31-14.37.58:748][511]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.31-14.37.58:748][511]AssetCheck: /Game/Physics/CF_Torque Validating asset
+[2026.08.31-14.38.12:061][309]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.31-14.38.12:092][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Physics/CF_Torque] ([1] browsable assets)...
+[2026.08.31-14.38.12:095][309]OBJ SavePackage:     Rendered thumbnail for [CurveFloat /Game/Physics/CF_Torque.CF_Torque]
+[2026.08.31-14.38.12:095][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/Physics/CF_Torque]
+[2026.08.31-14.38.12:095][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Physics/CF_Torque" FILE="../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Physics/CF_Torque.uasset" SILENT=true
+[2026.08.31-14.38.12:096][309]LogSavePackage: Moving output files for package: /Game/Physics/CF_Torque
+[2026.08.31-14.38.12:097][309]LogSavePackage: Moving '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Saved/CF_TorqueDB7A02064970E4754A8572A0819C36D4.tmp' to '../../../../../../Users/prash/Desktop/Peronal Projects/UE5/ChaosVehicles/Content/Physics/CF_Torque.uasset'
+[2026.08.31-14.38.12:103][309]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.806 ms (total: 873.803 ms)
+[2026.08.31-14.38.12:133][309]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.31-14.38.12:133][309]LogContentValidation: Enabled validators:
+[2026.08.31-14.38.12:133][309]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.31-14.38.12:133][309]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.31-14.38.12:133][309]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.31-14.38.12:133][309]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.31-14.38.12:133][309]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.31-14.38.12:133][309]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.31-14.38.12:133][309]AssetCheck: /Game/Physics/CF_Torque Validating asset
