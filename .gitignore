@@ -1,0 +1,39 @@
+# Unreal Engine .gitignore
+
+# Local build, cache, and config files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Ignore Visual Studio and IDE files
+.vscode/
+.vs/
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+.idea/
+
+# Ignore build artifacts (excluding specific build configurations if you use them)
+Build/
+!Build/Android/
+!Build/IOS/
+!Build/Windows/
+
+# Mac / Windows OS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# If you are using plugins, you might want to ignore their generated files as well
+# Plugins/*/Binaries/
+# Plugins/*/Intermediate/
