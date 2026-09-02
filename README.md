@@ -53,14 +53,15 @@ Everything in this project has been built from the ground up:
 
 ## 🎮 Controls
 
-| Action | Keyboard | Description |
-|---|---|---|
-| **Throttle** | `W` | Accelerate forward |
-| **Brake / Reverse** | `S` | Brake (or reverse when stopped) |
-| **Steer Left** | `A` | Turn wheels left |
-| **Steer Right** | `D` | Turn wheels right |
-| **Handbrake** | `Space` | Engage handbrake / drift |
-| **Free Look** | `Mouse` | Look around the vehicle freely |
+Both **keyboard + mouse** and **gamepad/controller** inputs are fully supported.
+
+| Action | Keyboard | Controller | Description |
+|---|---|---|---|
+| **Throttle** | `W` | `Right Trigger (RT)` | Accelerate forward |
+| **Brake / Reverse** | `S` | `Left Trigger (LT)` | Brake (or reverse when stopped) |
+| **Steer** | `A` / `D` | `Left Stick X-Axis` | Turn wheels left / right |
+| **Handbrake** | `Space` | `Left Face Special Button` | Engage handbrake / drift |
+| **Free Look** | `Mouse` | `Right Stick (2D Axis)` | Look around the vehicle freely |
 
 ---
 
