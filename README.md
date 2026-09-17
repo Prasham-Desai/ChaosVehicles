@@ -1,4 +1,4 @@
-<p align="center">
+﻿<p align="center">
   <img src="ChaosVehicles.png" alt="Chaos Vehicles Logo" width="200"/>
 </p>
 
@@ -218,5 +218,5 @@ This project is provided for **educational and reference purposes**. Feel free t
 </p>
 
 <div align="center">
-  <img src="screenshots/github-readme-banner.svg" alt="Signature banner">
+  <img src="Screenshots/github-readme-banner.svg" alt="Signature banner">
 </div>
