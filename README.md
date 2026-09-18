@@ -1,3 +1,7 @@
+﻿<div align="center">
+  <img src="Screenshots/github-intro-banner.svg" width="100%" alt="Intro Banner"/>
+</div>
+
 <p align="center">
   <img src="ChaosVehicles.png" alt="Chaos Vehicles Logo" width="200"/>
 </p>
@@ -214,5 +218,9 @@ This project is provided for **educational and reference purposes**. Feel free t
 <p align="center">
   <img src="ChaosVehicles.png" alt="Chaos Vehicles" width="80"/>
   <br/>
-  <sub>Built with ❤️ in Unreal Engine 5.6</sub>
+
 </p>
+
+<div align="center">
+  <img src="Screenshots/github-readme-banner.svg" alt="Signature banner">
+</div>
